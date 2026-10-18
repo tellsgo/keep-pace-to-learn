@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "counts": {
+    "b1": 1280,
+    "b2": 56
+  },
+  "errors": {
+    "endpoint_ce": 1.1102230246251565e-16,
+    "endpoint_accuracy": 0.0,
+    "ray": 2.6656914905538386e-15,
+    "calibration": 0.0,
+    "first_gradient": 0.0,
+    "first_update": 2.7755575615628914e-17
+  },
+  "frozen_before_training": true,
+  "completed_at": "2026-10-16T00:26:35.957926+08:00"
+}

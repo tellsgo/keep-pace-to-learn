@@ -1,0 +1,137 @@
+[
+  {
+    "file": "figures/generated/beams.pdf",
+    "bytes": 39656,
+    "sha256": "615fca65ca0ffd2ed0857774435a83ceaecbe18f4beed53342a5cf34ed3d053b"
+  },
+  {
+    "file": "figures/generated/beams.png",
+    "bytes": 108372,
+    "sha256": "31914f01329940395ffa6a2edac3852b025be92828b26f61c87121eeb5f97214"
+  },
+  {
+    "file": "figures/generated/benchmark.pdf",
+    "bytes": 39782,
+    "sha256": "80633a273500d6fd16442ce6b57d807b9a6e898d9682a9e791e054c6ec83bc3b"
+  },
+  {
+    "file": "figures/generated/benchmark.png",
+    "bytes": 44594,
+    "sha256": "53effc720aa493d79ef8968f099654f3903e87cb5b6cbd65d8f73497ba03e57d"
+  },
+  {
+    "file": "figures/generated/bias_jitter.pdf",
+    "bytes": 35144,
+    "sha256": "a468ee63f862120238c5b217c7db94fc1ce3ba7e3dc0348a05a53c53bc42a6bc"
+  },
+  {
+    "file": "figures/generated/bias_jitter.png",
+    "bytes": 42579,
+    "sha256": "b83e3c5da68c569d0bd26a7a0bde6d7f93123f427d03d2e52d6df5812b9b5b8f"
+  },
+  {
+    "file": "figures/generated/budget_cifar.pdf",
+    "bytes": 28819,
+    "sha256": "a65ba93c4e4a0db29bafdb9b82d9506280ba2f775a0c0ef4c3c8c64b803febf4"
+  },
+  {
+    "file": "figures/generated/budget_cifar.png",
+    "bytes": 112204,
+    "sha256": "f3538e8ddacd6e61d93553a81c7bdc3f8c14ca2c9ee18241d870b0331ded52ba"
+  },
+  {
+    "file": "figures/generated/budget_ext8.pdf",
+    "bytes": 40734,
+    "sha256": "63a0e3152cc00c8d0d0192e6cde53e9d9006785df00ab4b847794c3292394979"
+  },
+  {
+    "file": "figures/generated/budget_ext8.png",
+    "bytes": 87998,
+    "sha256": "941702381248a9515613c8ae4e372f1b40758f1faf75dd2ea96838999cd7d318"
+  },
+  {
+    "file": "figures/generated/cifar.pdf",
+    "bytes": 44395,
+    "sha256": "ae8e9430a13d9c8bdd228f57753417befbbb5fc345abe7ebb7fa728bcbb5f489"
+  },
+  {
+    "file": "figures/generated/cifar.png",
+    "bytes": 83699,
+    "sha256": "1075cdf92c72538058c04ec8e7aa3be3553a41eba98d342874ab8cc753cdf5a6"
+  },
+  {
+    "file": "figures/generated/convergence.pdf",
+    "bytes": 57901,
+    "sha256": "68c620c1deeb8a0c439999cbbc5e932196de4b5f3d54d84a74c9b5f97cdc6eab"
+  },
+  {
+    "file": "figures/generated/convergence.png",
+    "bytes": 86365,
+    "sha256": "2a6e2d16b676565ab77013b7d3ed3731feac0a2b395ba9ceacd52ff89b01222f"
+  },
+  {
+    "file": "figures/generated/csifree.pdf",
+    "bytes": 35745,
+    "sha256": "1e225913559d70675ba542825f12607b45037173bcf0d17b313d096144e2595f"
+  },
+  {
+    "file": "figures/generated/csifree.png",
+    "bytes": 44102,
+    "sha256": "e88e2dc44223c75ad53e52c5f64d0f46099b594fa72133feb50b52233c647c4e"
+  },
+  {
+    "file": "figures/generated/digits.pdf",
+    "bytes": 42790,
+    "sha256": "90cfa5197cc2477103d239bbb7c571a7d305939e2d300d7d17a5f6c6862ad8df"
+  },
+  {
+    "file": "figures/generated/digits.png",
+    "bytes": 100573,
+    "sha256": "8b4014f66b4463e18528823185e778ceb1c2883700daf2e484363c01d40c9b67"
+  },
+  {
+    "file": "figures/generated/fig1.pdf",
+    "bytes": 83623,
+    "sha256": "2877b85ee5ca1b6e90977beedf5517231447ffec91e74b0fd396d38c8055f191"
+  },
+  {
+    "file": "figures/generated/fig1.png",
+    "bytes": 233633,
+    "sha256": "735596dd2960ecc6e47a3b7a5ad963b8af954b6919530d994959415cbf8c39fe"
+  },
+  {
+    "file": "figures/generated/fig1_grayscale.png",
+    "bytes": 98313,
+    "sha256": "39d2e32c1f4ca24cb9e7812d2045f66f0e0cbb4bead1abf6db7662a097a7dc3e"
+  },
+  {
+    "file": "figures/generated/protocol.pdf",
+    "bytes": 40940,
+    "sha256": "312f990e646261d2cec8fcea0415e65481cd36872143c2473d23457cc77d0490"
+  },
+  {
+    "file": "figures/generated/protocol.png",
+    "bytes": 115829,
+    "sha256": "feec45571ac62aea277132262e4e6e6fb1a1ed4001525b44f6869e4aa64bfce8"
+  },
+  {
+    "file": "figures/generated/regime.pdf",
+    "bytes": 79431,
+    "sha256": "7d591c2b63a83723d37e2b98bde3e7a13d5de0cf509419382503ef18f2253a8a"
+  },
+  {
+    "file": "figures/generated/residual_law.pdf",
+    "bytes": 40817,
+    "sha256": "9a4a11faa3802ba0e121f2bb500ab910924aeb42d86786e69667e0e629e6ef9c"
+  },
+  {
+    "file": "figures/generated/residual_law.png",
+    "bytes": 53201,
+    "sha256": "1586a0791c97eb735ed18a54ebd53e5527ca8fb36fb4c019f4e709417c4650e5"
+  },
+  {
+    "file": "figures/generated/validation.json",
+    "bytes": 6276,
+    "sha256": "f0617de72ed91baf836287b4c1c951c2cf97be8d97621a2d39c5a00143551712"
+  }
+]

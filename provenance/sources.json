@@ -1,0 +1,3062 @@
+[
+  {
+    "source": "input/evidence/S_benchmark_refinement/SPEC.md",
+    "source_sha256": "99f103fbf86b6d06dafeaa423be16b671c1a84b4cf97c80d3d39fdbb6e9a7326",
+    "destination": "studies/benchmark_refinement/SPEC.md",
+    "transformation": "condensed English translation; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/VERDICT.md",
+    "source_sha256": "fd7b8140db3bb76f702efafcaf399e6cd8cee5e5dff5f5faf60a70e39aafd830",
+    "destination": "studies/benchmark_refinement/VERDICT.md",
+    "transformation": "condensed English translation; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/audit.json",
+    "source_sha256": "c5372b9952131eacf2e51de733ff73dbf4a142686a452f57e63d4137b8a2b573",
+    "destination": "studies/benchmark_refinement/results/audit.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/b1_by_seed.csv",
+    "source_sha256": "17c583cabceda7bccb70c789716acd15f7321537d7b2ae8a80b1fc42fc9c1e17",
+    "destination": "studies/benchmark_refinement/results/b1_by_seed.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/b1_contrasts.csv",
+    "source_sha256": "240e55c526ba72f6fc297942ab4ffdd1d36b3ad3b646d039f8b9eb4088787964",
+    "destination": "studies/benchmark_refinement/results/b1_contrasts.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/b1_summary.csv",
+    "source_sha256": "0e686feb7988f685d5ff758664fa1fe204cc639fe6d3b9c43f4dd0f1d3054582",
+    "destination": "studies/benchmark_refinement/results/b1_summary.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/b2_by_seed.csv",
+    "source_sha256": "9e2f30f33b8c71d4484a8725eb38d9d3bacad070cd5e81168162f50b500bc765",
+    "destination": "studies/benchmark_refinement/results/b2_by_seed.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/b2_complete.json",
+    "source_sha256": "1395ab00b743f2d606e897a8f664e072400af5fdd8e21073008d6eb06b39f5b4",
+    "destination": "studies/benchmark_refinement/results/b2_complete.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/b2_first_crossing.json",
+    "source_sha256": "fd60fa26c8a3c616df300684d74bc2f05b765ad353cbafc307314ed4917e8dd6",
+    "destination": "studies/benchmark_refinement/results/b2_first_crossing.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/b2_seed_crossings.csv",
+    "source_sha256": "64b8c3a978febe01910aa91aeec3f3c3232f40695ccf0eb75fb8356049fdca68",
+    "destination": "studies/benchmark_refinement/results/b2_seed_crossings.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/b2_summary.csv",
+    "source_sha256": "d93d203f41c64c7115647fb1e1da6a9350174fffbf7ecfa6106df12fedf96f17",
+    "destination": "studies/benchmark_refinement/results/b2_summary.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/decision.json",
+    "source_sha256": "70afc6754a4888908a9dab12962f3b22c05164c4f4ad2183456f8e8f9456763d",
+    "destination": "studies/benchmark_refinement/results/decision.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/ledger.csv",
+    "source_sha256": "dcf372c0769728016385bed6ea2711ea7ccd0222144e879b5f0b302e406b6450",
+    "destination": "studies/benchmark_refinement/results/ledger.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/theory.json",
+    "source_sha256": "31956a807445a737fd0bc50e186150075abfa23c42680f73cfe272f2af005085",
+    "destination": "studies/benchmark_refinement/results/theory.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/theory_geometry.npz",
+    "source_sha256": "46d5e0e2856d3e7a48c3edca5e3bcf5723bb42ad97a1340463562756c2520e8a",
+    "destination": "studies/benchmark_refinement/results/theory_geometry.json",
+    "transformation": "lossless array JSON conversion; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_budget/BUDGET2.md",
+    "source_sha256": "6daa7280a3505e9969eca6e56e1464be9ce25d3430f0f08b095348c090b2ca1e",
+    "destination": "studies/budget/BUDGET2.md",
+    "transformation": "condensed English translation; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_budget/budget_cifar.csv",
+    "source_sha256": "077e7c5661b4de56668151969c3287c9cbe5ff75d85457a2771974cb942d2382",
+    "destination": "studies/budget/results/budget_cifar.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_budget/generate_budget2.py",
+    "source_sha256": "191fcced3b534669aca3e4cb13f3f2b4c07a5ae91ea302384e49a0ffd4b6fa3d",
+    "destination": "studies/budget/src/generate_budget2.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/FREEZE_SHA256_ext5.txt",
+    "source_sha256": "2466a1bc134f9bf028bb644a2e03165468924e29bebf2a8b09e5f801ab4ea936",
+    "destination": "studies/cifar/FREEZE_SHA256_ext5.txt",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/FREEZE_SHA256_ext6.txt",
+    "source_sha256": "1e49429ef511d1d0faf232dee8971b801c206edc0b0601fd83f94e137162f428",
+    "destination": "studies/cifar/FREEZE_SHA256_ext6.txt",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/FREEZE_SHA256_ext7.txt",
+    "source_sha256": "f989c5d70cc3dcd5f08e76d7bb153c3d851aa3d646f1a6d0051941494582e1ca",
+    "destination": "studies/cifar/FREEZE_SHA256_ext7.txt",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/FREEZE_SHA256_ext8.txt",
+    "source_sha256": "a8089d0d50d86ca49c74d5197ab6ba63480808ad3ccb8964d9de6b6b36fbefc4",
+    "destination": "studies/cifar/FREEZE_SHA256_ext8.txt",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC.md",
+    "source_sha256": "e1604b630ef21b1c8870706fbed34bb9ce4f436d97951e85d87785adb40f7df7",
+    "destination": "studies/cifar/SPEC.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC_ADDENDUM_ext1.md",
+    "source_sha256": "50b0cf4719e40b8ad0e73ffeb22e99757be6666ea597d3aef25e70922bf1c3c1",
+    "destination": "studies/cifar/SPEC_ADDENDUM_ext1.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC_ADDENDUM_ext2.md",
+    "source_sha256": "9f9fa5b6770dd9b088154a142fe71ce7ceb53c308892807e688bb9ef17d57fa0",
+    "destination": "studies/cifar/SPEC_ADDENDUM_ext2.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC_ADDENDUM_ext3.md",
+    "source_sha256": "c697915ce8b399009b5ad31b8a29378ee11e362bae29b26759ca04db962ada98",
+    "destination": "studies/cifar/SPEC_ADDENDUM_ext3.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC_ADDENDUM_ext4.md",
+    "source_sha256": "e3ef887f7ba7a258674da4e399da4a41b8865695e3804aa34ab25cbc7ad5e040",
+    "destination": "studies/cifar/SPEC_ADDENDUM_ext4.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC_ADDENDUM_ext5.md",
+    "source_sha256": "06b195a47de82a1aed8e00f165d746d5b522879ffae1801d83899309d57cb3a4",
+    "destination": "studies/cifar/SPEC_ADDENDUM_ext5.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC_ADDENDUM_ext6.md",
+    "source_sha256": "34bbb59ef7338794833c0df299eae919d4bf89363e3caf27044ecc8c5cb5c51f",
+    "destination": "studies/cifar/SPEC_ADDENDUM_ext6.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC_ADDENDUM_ext7.md",
+    "source_sha256": "edbe000151f4f2654d97bba4ce90e10094dbdc2bf99a42ac3d4ccf23438e12aa",
+    "destination": "studies/cifar/SPEC_ADDENDUM_ext7.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/SPEC_ADDENDUM_ext8.md",
+    "source_sha256": "ddd00bdb769098657bb9e894e8bbac7b127fd9a175d246b976045d03648829da",
+    "destination": "studies/cifar/SPEC_ADDENDUM_ext8.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/VERDICT.md",
+    "source_sha256": "eec21a4450cbba70d1425e76d2cef9ed3047f3ed08d870ef5af140d9c15871e3",
+    "destination": "studies/cifar/VERDICT.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/configs/cdl_a.csv",
+    "source_sha256": "25499cbd22e9724767882588af0f92e360d30812eb376eae10e5f11997383423",
+    "destination": "studies/cifar/configs/cdl_a.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/configs/config.json",
+    "source_sha256": "5206212ece7980e791a5858e8f8d8ea62903432c81c3bc57c4e5d9dbb3d20dc8",
+    "destination": "studies/cifar/configs/config.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/pilot/energy_csi.json",
+    "source_sha256": "7f5a6ce240fdf8c7edf006dbb02863ecb613831896551a867a7cf69d3e90e9dd",
+    "destination": "studies/cifar/pilot/energy_csi.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/pilot/energy_fixed.json",
+    "source_sha256": "825d19b95208ab4587894b2e0e92c16b4abab9c8447556e33ba9dfe9f6e410de",
+    "destination": "studies/cifar/pilot/energy_fixed.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/analysis.json",
+    "source_sha256": "6acffe68b98583e4c3b06f8aff308719fb2601617fd229f9f32373d7a06fc2c9",
+    "destination": "studies/cifar/results/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/csi_0.0_710172100.json",
+    "source_sha256": "0317f0428a4842f98f2778f2a8f3e8a36e790ad0cc9b9325e3ab7d0ba97652ce",
+    "destination": "studies/cifar/results/csi_0.0_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/csi_0.0_710172101.json",
+    "source_sha256": "0249486d5415802ccca54c8ab1eafebcdaff20c58683b3cda12fe94420bf2921",
+    "destination": "studies/cifar/results/csi_0.0_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/csi_0.0_710172102.json",
+    "source_sha256": "05de60e5ac1f913f06ebbb3e7c1ba1cb3fd3ce541fc45ebc1c54251e00452bb4",
+    "destination": "studies/cifar/results/csi_0.0_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.0_710172100.json",
+    "source_sha256": "fa7fb5da4930d429a5e720c55f5b2fd8e8d0595867af300a44d177c200ed7432",
+    "destination": "studies/cifar/results/phys_0.0_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.0_710172101.json",
+    "source_sha256": "e09fe29eec63cd7ee076c01dd4223b560ebfef437f2f388ca707418b984548d2",
+    "destination": "studies/cifar/results/phys_0.0_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.0_710172102.json",
+    "source_sha256": "ad55f576f4678449f42556258c435949a6cc10acc900225e2a40e40b3234644d",
+    "destination": "studies/cifar/results/phys_0.0_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.1_710172100.json",
+    "source_sha256": "6fc56838ca8560b575f2000beeedb22ccb838f5081e43ac8a32d0ce281b72129",
+    "destination": "studies/cifar/results/phys_0.1_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.1_710172101.json",
+    "source_sha256": "52c9374991a8d7cc241985398d0f08c1b3b4642984b76064bc4ade06e42aa7ca",
+    "destination": "studies/cifar/results/phys_0.1_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.1_710172102.json",
+    "source_sha256": "6b051329b0be88791e14e074250f02b4bc0eeb8da8c5d5f9251fd8f8b4512e0f",
+    "destination": "studies/cifar/results/phys_0.1_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.25_710172100.json",
+    "source_sha256": "b3e61fc1eb254a2835df814ec7484c37e26e39a70c4d699fa48cd80d3754aff4",
+    "destination": "studies/cifar/results/phys_0.25_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.25_710172101.json",
+    "source_sha256": "d062f40cf6e889f5c62d2ea8da3ba5070e779a5048c0d8f0605892e8e2492c8e",
+    "destination": "studies/cifar/results/phys_0.25_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.25_710172102.json",
+    "source_sha256": "9c98675b1b2ad2445a2180a1d47cb2de018fa7108294fdec49ff07aad87d2d5d",
+    "destination": "studies/cifar/results/phys_0.25_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.2_710172100.json",
+    "source_sha256": "4cb519d35f506b0f7155b27e607653e39cf1b5abd1430f3d6173b079ce3abb5d",
+    "destination": "studies/cifar/results/phys_0.2_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.2_710172101.json",
+    "source_sha256": "3e85d5f1a985c6e801ee01e760e977a1d58d54e43c78c2e56fc1120420984638",
+    "destination": "studies/cifar/results/phys_0.2_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.2_710172102.json",
+    "source_sha256": "a216b9d9c0f6a264a41c83a54e68a13f3e8c8c59adf6560a799d3aa52e60e7db",
+    "destination": "studies/cifar/results/phys_0.2_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.3_710172100.json",
+    "source_sha256": "175a256cee4996f1cc3db73838527dac394b0b1da8867424807bcb89e50d5722",
+    "destination": "studies/cifar/results/phys_0.3_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.3_710172101.json",
+    "source_sha256": "006bcecc712f9ac974920570406334839b6a2bae8418bc306fe795ba142c4d12",
+    "destination": "studies/cifar/results/phys_0.3_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_0.3_710172102.json",
+    "source_sha256": "56095a34f724cfee42ca52fae784c4cd1def67f8e2dc19e71fc5586b490dfd36",
+    "destination": "studies/cifar/results/phys_0.3_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_fixed_710172100.json",
+    "source_sha256": "bc970a749a626e8adb0403caacd0c02e2e04ecdbfda42598ef7b1b99e7f5f355",
+    "destination": "studies/cifar/results/phys_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_fixed_710172101.json",
+    "source_sha256": "7cb4259241e0635bb5b83a8a2d2b2374a2bfd0ce61c137a111b71a92fafbb7e8",
+    "destination": "studies/cifar/results/phys_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/phys_fixed_710172102.json",
+    "source_sha256": "0de5febbdf5b1be8c08c4ee3fcb869b1fcdf5a67f681648de7ca416eadd82e00",
+    "destination": "studies/cifar/results/phys_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results/spectrum_cifar_seeds.json",
+    "source_sha256": "6d677a43d28cefa8c91d43880076adff8ca1f11565f5029a6fdc1f75afb2e24e",
+    "destination": "studies/cifar/results/spectrum_cifar_seeds.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/analysis.json",
+    "source_sha256": "d4b1e41078f4b6ea21c104c71f47281ee056614df8078c5b4443001c9f94a816",
+    "destination": "studies/cifar/results_ext1/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_csi_0.0_710172100.json",
+    "source_sha256": "dd1f78d2d75b97367c597b50a8aef88a18ee533d0e3b0e6773a238d2fc5c7911",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_csi_0.0_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_csi_0.0_710172101.json",
+    "source_sha256": "a2176a8278c8e1770ebb692d0906c66797d65718054c1e28fc73ebe1160c7cc5",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_csi_0.0_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_csi_0.0_710172102.json",
+    "source_sha256": "b135ce8c075893a64dbec52f0662a02ae0965c539f8b59174c6607630135d15f",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_csi_0.0_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.0_710172100.json",
+    "source_sha256": "1bbd63d1085693740eb82af25d2948ec5af0bee84e8d5b49a678a0ece2f658ef",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.0_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.0_710172101.json",
+    "source_sha256": "b9da54bc6f73c4c5f5d1d99a781cb3ef22e68317b1c9af734440b9c144be3b84",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.0_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.0_710172102.json",
+    "source_sha256": "feebe6024810c486b46d7a0e7d867e48ebe155dcb847ac2f603b11588d1240b2",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.0_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.25_710172100.json",
+    "source_sha256": "ec87cf6fe6b04c1d90c9f5f016f906aa43c273a542983d9c2f4940df965160e0",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.25_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.25_710172101.json",
+    "source_sha256": "088b1e80d5221fef2b16ae29293f96747034df6e2e1b636b6ccb41af08bcb75d",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.25_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.25_710172102.json",
+    "source_sha256": "01357a502cf94de0a1c4077c12fcea9f6e08cdf459494935e65e157a8c84fd2f",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.25_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.47_710172100.json",
+    "source_sha256": "6cb6382f2626a38fc8d7eef8601f02dc098abcdc7bfcb91233601a755043ba45",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.47_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.47_710172101.json",
+    "source_sha256": "e339f2aa515f571fa1e24e7be7f73ab82cfa848615023b2afaee5ea3b360d390",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.47_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.47_710172102.json",
+    "source_sha256": "258021b09555e2f2bf0341b3e3e4aecdebbf11c6058862a402eeed28c018f8d7",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.47_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.6_710172100.json",
+    "source_sha256": "24d13c77be0747a778fa2ded240f889371a2b17811e9e0deb3db97f2617dd480",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.6_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.6_710172101.json",
+    "source_sha256": "e01b1aa31cb70c714b3dc1fd637c5e80d3c70527a9c91d8ade9f0a8b1c22c72c",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.6_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.6_710172102.json",
+    "source_sha256": "f572eb70064517d61a44769c2dec8fdb01cbbdf2379f8c147adb2808000d5a86",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.6_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.85_710172100.json",
+    "source_sha256": "837b26013744ccb25ad01b45685770520a9dbb6f67ea40c6f35c1f174ee99b8f",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.85_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.85_710172101.json",
+    "source_sha256": "a5b0c410576a208ea3f3fccc56628d217bdc2ed49bc96d069cbc8d10868e5121",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.85_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr2_phys_0.85_710172102.json",
+    "source_sha256": "8228a79216b64a0ee389b35af9e18f64f32ec06bcdfd7c6ae0375c38ba5c67ca",
+    "destination": "studies/cifar/results_ext1/ext1_nr2_phys_0.85_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr8_phys_0.85_710172100.json",
+    "source_sha256": "547f610cac97382501123e8bfb26875fa95b177359ed330945169eb0ce29825a",
+    "destination": "studies/cifar/results_ext1/ext1_nr8_phys_0.85_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr8_phys_0.85_710172101.json",
+    "source_sha256": "65c1caf77446954e937edec08532a3bf786226f191a5a1c38144092f88741200",
+    "destination": "studies/cifar/results_ext1/ext1_nr8_phys_0.85_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr8_phys_0.85_710172102.json",
+    "source_sha256": "2a392b8deb7c0b73d5fcaf047daac232d0e85bd68231025589613a1291c6fa5d",
+    "destination": "studies/cifar/results_ext1/ext1_nr8_phys_0.85_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr8_phys_1.9_710172100.json",
+    "source_sha256": "91680a15d586658749f0318989ac3ea906829c08d611ca5ccd8d1bd29aeb17d8",
+    "destination": "studies/cifar/results_ext1/ext1_nr8_phys_1.9_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr8_phys_1.9_710172101.json",
+    "source_sha256": "facce27dced3280750b125f10ff4a455d6e9aed956d3d93de232e2340b56bc1d",
+    "destination": "studies/cifar/results_ext1/ext1_nr8_phys_1.9_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext1/ext1_nr8_phys_1.9_710172102.json",
+    "source_sha256": "fc5651c69fc303417de0965a518e926c878e2182ad2492a62cc7ba6285653af9",
+    "destination": "studies/cifar/results_ext1/ext1_nr8_phys_1.9_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/analysis.json",
+    "source_sha256": "fe2432a62d8cad5777d95741db3d5cf3feb13f1810cc4a1d9d243ca5708b1b36",
+    "destination": "studies/cifar/results_ext2/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr2_fixed_710172100.json",
+    "source_sha256": "ae19fe34e6d3ae054c22bf062b949fbe0924c25949e85f6c8383a8b9c9ae66c7",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr2_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr2_fixed_710172101.json",
+    "source_sha256": "40fe139c9573a4569227ebee16a3818f175dc908b9909b8b45d365aa3371ab0d",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr2_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr2_fixed_710172102.json",
+    "source_sha256": "6bae4cc42ef3219b999b37fd1c907b42344347a1d09fa829fe36e89d1b5ff7a6",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr2_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr2_ma_710172100.json",
+    "source_sha256": "b678d6af4b694e94987d87ab4866e4a00a178c3c84c6b51be579bf377cc3d3fd",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr2_ma_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr2_ma_710172101.json",
+    "source_sha256": "397c401fa60da259da9e2530cb038e91c78509b21d2b59555dfaef1d0210c541",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr2_ma_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr2_ma_710172102.json",
+    "source_sha256": "8331df7783b12eff6b513087289b23527c63e9ec43188f600f7b76d983d74862",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr2_ma_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr8_fixed_710172100.json",
+    "source_sha256": "adbdce34b52df7824ddfda31dcec6880958ac06a7eda68bcee421acf027a7614",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr8_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr8_fixed_710172101.json",
+    "source_sha256": "8f0527b7e78f1af330f5d47026c595eea2759d176d4647709ae89e490fbfdabe",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr8_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr8_fixed_710172102.json",
+    "source_sha256": "5430b8be88a7a7556241f23ebb10bbfa3525c6f80471b5792a5f63b13c88d9ea",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr8_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr8_ma_710172100.json",
+    "source_sha256": "a9340a78d6b8e8b0608d1832d49524f81a78714e27fff81a1ef4238f16fa317c",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr8_ma_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr8_ma_710172101.json",
+    "source_sha256": "7b2d1552bb024fd70ee09bf84e436d4d3b84e938933bcec10c31cd2b62206cad",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr8_ma_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1.82_nr8_ma_710172102.json",
+    "source_sha256": "1e58feafc77caf18a1340d7be65dba935f891eff241505331732d89243c686ee",
+    "destination": "studies/cifar/results_ext2/ext2_v1.82_nr8_ma_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_fixed_projpos_710172100.json",
+    "source_sha256": "c88504d35e6c6ee5312efae0ca2691e64e2d4cacaf6b507f3d0bcf2f0ddb1aa1",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_fixed_projpos_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_fixed_projpos_710172101.json",
+    "source_sha256": "88739ded4eb809a6b6e049f73065cc53bb3661c3414be86d58ae065dd03c850e",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_fixed_projpos_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_fixed_projpos_710172102.json",
+    "source_sha256": "62b7ac1db2b74da42a84edd9830d8b1c333df69840ad95aa9eeae44b13aba33a",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_fixed_projpos_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_fixed_projrand_710172100.json",
+    "source_sha256": "dd6f63841438cfe3b9bb21d044bbfc8996c9b274f0027ae96d195d0f5ed37072",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_fixed_projrand_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_fixed_projrand_710172101.json",
+    "source_sha256": "160c9f2843205ae50b5ddba610965725fbb56f30c6cf1f5046044cea9812df96",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_fixed_projrand_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_fixed_projrand_710172102.json",
+    "source_sha256": "d01324e1c0ae8ac437703a18f806b9e47979c3dc96c655183afd49f7057ae495",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_fixed_projrand_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_ma_projpos_710172100.json",
+    "source_sha256": "cfbae743a3b008d1032cc023c2ba30953841388f13c9ca6f51b97287ce0c0e9a",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_ma_projpos_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_ma_projpos_710172101.json",
+    "source_sha256": "24bca8dbb11d27bcc70536f863e46d6233af567615e6d55a61d73e1085581b1f",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_ma_projpos_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v1_nr8_ma_projpos_710172102.json",
+    "source_sha256": "d37e4df9986b6cc83c8cbbf9d27bdd63918d552f61e20ec5c43814c0893ace37",
+    "destination": "studies/cifar/results_ext2/ext2_v1_nr8_ma_projpos_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v4.07_nr8_fixed_710172100.json",
+    "source_sha256": "75aa67465fdf520f3e17605f59268f6297bdc4d94c93980da20554a2f6945caf",
+    "destination": "studies/cifar/results_ext2/ext2_v4.07_nr8_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v4.07_nr8_fixed_710172101.json",
+    "source_sha256": "07aa1e73f7d4fd160f8faca4dca01a975519f33f657f38af30fe8b4403455066",
+    "destination": "studies/cifar/results_ext2/ext2_v4.07_nr8_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v4.07_nr8_fixed_710172102.json",
+    "source_sha256": "75588ef00ce68bbf4d645828c9f65556434ce3265df9802f5776e5adf59fad26",
+    "destination": "studies/cifar/results_ext2/ext2_v4.07_nr8_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v4.07_nr8_ma_710172100.json",
+    "source_sha256": "a9b0d93bdb2f3db031ee88d03bf266a597f6dd1644004ea81e27a614de1b9263",
+    "destination": "studies/cifar/results_ext2/ext2_v4.07_nr8_ma_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v4.07_nr8_ma_710172101.json",
+    "source_sha256": "01fc2122de244f3b1e27c07fbf1a0742b257c4c0c6756247fc9063005ead1c17",
+    "destination": "studies/cifar/results_ext2/ext2_v4.07_nr8_ma_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext2/ext2_v4.07_nr8_ma_710172102.json",
+    "source_sha256": "ddc798359d54be3a426d50672005b600cb638c6da00e4ad7cedf0cc0393f5084",
+    "destination": "studies/cifar/results_ext2/ext2_v4.07_nr8_ma_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/analysis.json",
+    "source_sha256": "980c1874f94a0e5d95d86ce1d72eae274322c9b1eaec408b3f47ad6e5731a033",
+    "destination": "studies/cifar/results_ext3/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1.82_fixed_710172100.json",
+    "source_sha256": "032e92500badebdda68e1373cc85a7e0fff2f88f2bcfcaddac94e7ad7da144de",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1.82_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1.82_fixed_710172101.json",
+    "source_sha256": "7add24416fae4da078a898f203f01fad5d55943928a58f67379a0b547887f3ac",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1.82_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1.82_fixed_710172102.json",
+    "source_sha256": "e53547e672b6ef71f078db0900a61cef0367b7bd72ab6abef02718e064e35e49",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1.82_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1.82_ma_710172100.json",
+    "source_sha256": "29ec9ddfed34464453d7e52ea1cb3fb7407ac4525422bf02f58be65874f5e762",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1.82_ma_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1.82_ma_710172101.json",
+    "source_sha256": "29c358004e2f758425057c3317ad5007d304489520525e064af3f3987897cd1d",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1.82_ma_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1.82_ma_710172102.json",
+    "source_sha256": "e1a9c477d764438c73f8bbb1432d7d2d244bbd4f140b026683cbcfcbc0269e64",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1.82_ma_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_csi_710172100.json",
+    "source_sha256": "634d3082bee3f8ed139de149853ebaa7aae83f83e4ae5aa8e732bcba69af0b33",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_csi_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_csi_710172101.json",
+    "source_sha256": "63f58e70ca9dee9db003ddbfabb6096b0808ef9991ec827857cf70b66a2dde16",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_csi_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_csi_710172102.json",
+    "source_sha256": "4391a779e69ed77bb2636a0a51fb5e38c960521310fd6f72c7997f3613b5a163",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_csi_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_fixed_710172100.json",
+    "source_sha256": "d05d80ccaa1cff4e3041a6fc7046b968bc03fbadff1403f5b8ef8e4b1040c7e6",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_fixed_710172101.json",
+    "source_sha256": "1dc29b7c8ce037fc1b10b4839b7ed2e63ea1a74bf17a2af48cb2a51cee6eda53",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_fixed_710172102.json",
+    "source_sha256": "2da30eeaa66ce29e529ee88c69af55bbabf96d75b04084d094d6178ad7a99c32",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_ma_710172100.json",
+    "source_sha256": "75ad803724b719e8c8b4ba240a6655666d847225051afdf2c0c92477b694986f",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_ma_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_ma_710172101.json",
+    "source_sha256": "1629dc080b5f0f9b8691fabb930722348fb8695facc9a2f8688d11f1ca031012",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_ma_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_nt2nr2_v1_ma_710172102.json",
+    "source_sha256": "71ed16b7090c309bd981ff2cc0aa98e9bf335d4065fdf73ceab5f64baddb419f",
+    "destination": "studies/cifar/results_ext3/ext3_nt2nr2_v1_ma_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v1.82_nr2_csi_710172100.json",
+    "source_sha256": "72673cb99a501f78ccff55a362c8d529be2632d48551e413b62fbe7991cccca4",
+    "destination": "studies/cifar/results_ext3/ext3_v1.82_nr2_csi_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v1.82_nr2_csi_710172101.json",
+    "source_sha256": "0c1b364da8b3f57aec9c100b77ae3f0f2f5dc8ae15d4165e1db611bd32b51c02",
+    "destination": "studies/cifar/results_ext3/ext3_v1.82_nr2_csi_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v1.82_nr2_csi_710172102.json",
+    "source_sha256": "03ec6e0bbcd464ebc1ccab149d84270fd1e751efa072253e58375bc68ea80876",
+    "destination": "studies/cifar/results_ext3/ext3_v1.82_nr2_csi_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v1.82_nr8_csi_710172100.json",
+    "source_sha256": "2bbe89f611e03082573afcf2aaa7e0a83e2c0315f448c1929e064d6a80c685fe",
+    "destination": "studies/cifar/results_ext3/ext3_v1.82_nr8_csi_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v1.82_nr8_csi_710172101.json",
+    "source_sha256": "74e51e33658af4584fc8a169dfd3926c1f573dd92e4b573db2e34a68982cb780",
+    "destination": "studies/cifar/results_ext3/ext3_v1.82_nr8_csi_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v1.82_nr8_csi_710172102.json",
+    "source_sha256": "f9e7b64f2ead8d377a7bd4e13a24133a4bc045cf64abf101d0157525422e566d",
+    "destination": "studies/cifar/results_ext3/ext3_v1.82_nr8_csi_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v4.07_nr8_csi_710172100.json",
+    "source_sha256": "eafc5e0e7098cd0b6cceb65c97b9b213f45f191acb8394c24aba66d129b22b43",
+    "destination": "studies/cifar/results_ext3/ext3_v4.07_nr8_csi_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v4.07_nr8_csi_710172101.json",
+    "source_sha256": "b4ca054b435a12c9e68ad305edbe9fb2188d958b0baccdbdbe553a037f8ed8de",
+    "destination": "studies/cifar/results_ext3/ext3_v4.07_nr8_csi_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext3/ext3_v4.07_nr8_csi_710172102.json",
+    "source_sha256": "8642b4019abccbd8ab6796ebac1fb59a4ea2cfd87e2f8bc6b453190c1b8d2bd3",
+    "destination": "studies/cifar/results_ext3/ext3_v4.07_nr8_csi_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/analysis.json",
+    "source_sha256": "0469f916c65d9ee07ee20d091da655bab4c6a72a68f1155a008b8e2d9d7a31bd",
+    "destination": "studies/cifar/results_ext4/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_csi_710172100.json",
+    "source_sha256": "f4cd0f8fa34badeb485bcba765ce1659f5ac51505a4fbd444ada0a904ac8b0a8",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_csi_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_csi_710172101.json",
+    "source_sha256": "9bdbf3d9a507278b9468a9330216788820df00d7fc587b254a91d889662fce04",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_csi_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_csi_710172102.json",
+    "source_sha256": "7d4412caa66a1bf7c1b2e3a41b9313fd2f14f771ae282313e3c2928922ee6285",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_csi_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_fixed_710172100.json",
+    "source_sha256": "86906080317d36a9fe137e6912e6ee5a1e9521b34455472fa774207d6a209e3a",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_fixed_710172101.json",
+    "source_sha256": "1947eceac4b191ddea44b4bcb6b320e21280718e368c721b3feaf75fb62e701f",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_fixed_710172102.json",
+    "source_sha256": "adfec90619e39ec361e3d4238dfa2a7f1dd7ffb34e15624ba64c838dc82f6f98",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_ma0.0_710172100.json",
+    "source_sha256": "b73922477f382973d9611ce9b87f8205f8061d0b38bf5fd1abd683dfc115276d",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_ma0.0_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_ma0.0_710172101.json",
+    "source_sha256": "64353264c720676b22467c83df1d02b357a47fe8b6bc4a994e43cb89ca86f341",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_ma0.0_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_2x2_ma0.0_710172102.json",
+    "source_sha256": "204b666fa69b7e7edcf9477c2f7434ea6cb9e18d5699f5e940c6ede696ec6660",
+    "destination": "studies/cifar/results_ext4/ext4_e_2x2_ma0.0_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_csi_710172100.json",
+    "source_sha256": "be48b07d71b265ba28c57a58a8a15687d9c5cc109d7d448c60808aa3c01afa37",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_csi_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_csi_710172101.json",
+    "source_sha256": "2ca943fec395406fae508584c9d3f428c81cebcc411ce7b6cbd8b70c8ce62f0e",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_csi_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_csi_710172102.json",
+    "source_sha256": "09ef70576b816ac808fdbe81378d51462697136f906a1cff89670d65b80b318d",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_csi_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_fixed_710172100.json",
+    "source_sha256": "0309c7d39b31e34bb0e8e95204dcd47fc991371ebe298934004aafec3a6199e1",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_fixed_710172101.json",
+    "source_sha256": "27f03ab6559fbf09c64aef78ffdbceef0865e67aabb7a1760b919aa3df9a6176",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_fixed_710172102.json",
+    "source_sha256": "9c47b7084810812d27aea337f60589f78eda43bd519c88af2cda1645ad87da67",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.0_710172100.json",
+    "source_sha256": "1adc1ed7971faef7973152844d7f3cf694c36098dafb9087b32ad857b3abdafb",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.0_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.0_710172101.json",
+    "source_sha256": "9776d62bd74a2113212cb746d8f05f62016ef71c2be41418b3bdaa496712b683",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.0_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.0_710172102.json",
+    "source_sha256": "055ef968804596e88447fdadab4670620676c42f1e0265777673f465e0f675d7",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.0_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.1_710172100.json",
+    "source_sha256": "cdcfde88f12dc56bcca479714a957d6c5333d9bc35220c93bb9982f126eaea67",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.1_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.1_710172101.json",
+    "source_sha256": "e4327682b4c59b9c83fa31c7f11582c5c5413a2588f93535769c049746a65c89",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.1_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.1_710172102.json",
+    "source_sha256": "5b25ed15f96a8d38ee5e27503b4b35dc8211bae1706411d0b5776d1481c91df6",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.1_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.25_710172100.json",
+    "source_sha256": "6eed3869810be4c0650f99edc1a4536b217b07f78d8a41d2b58125c9d7942cee",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.25_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.25_710172101.json",
+    "source_sha256": "79916b7d600f4653bb4da4a95a2ca7893a9822db6cf8920207614579ef6ead31",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.25_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.25_710172102.json",
+    "source_sha256": "afac83cb6fea95dd92500ad937fee248e345b0463fc2e35056a12adcfd78a351",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.25_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.2_710172100.json",
+    "source_sha256": "8a01ffea2ac0adca414758c0686b75cf6e9a959572f1c0192a2e2fbec7c440f0",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.2_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.2_710172101.json",
+    "source_sha256": "663801bc097aee224e1381e6168da05eaa685a0c2da7aff18b897304f1bbc3ab",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.2_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.2_710172102.json",
+    "source_sha256": "41ace88135de13a94e9cf68831631bdc7b0bd39525aac0a97d8aa3605e3c2cd8",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.2_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.3_710172100.json",
+    "source_sha256": "ab5610b894d0df3df01b44db87cd01cfb9f4dbc3526eec9b2562a1f23cf2889e",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.3_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.3_710172101.json",
+    "source_sha256": "7c83e9a4c2ac1a4659120350464924a0e33ad673385abd50b1bbe56a901e5abf",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.3_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext4/ext4_e_nr8_ma0.3_710172102.json",
+    "source_sha256": "1f3a93eab08b25d4bd17a1ba919c56cdf187ec23d32d2b51af8fdae5a3f03f68",
+    "destination": "studies/cifar/results_ext4/ext4_e_nr8_ma0.3_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext5/analysis.json",
+    "source_sha256": "3521aa54033437e29169138fe05b0f4ecf8ca0f376020d13f30808e09c001e5c",
+    "destination": "studies/cifar/results_ext5/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext5/ext5_v1_nr8_fixed_randmatch_710172100.json",
+    "source_sha256": "75ff88ec76e856ee30bee813c44515add323d1115bdba258b036f0ed0134ff75",
+    "destination": "studies/cifar/results_ext5/ext5_v1_nr8_fixed_randmatch_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext5/ext5_v1_nr8_fixed_randmatch_710172101.json",
+    "source_sha256": "c8a5eb64436ed1956a97b9706948e612c1ea50a8ffabc114e417688c3f28855c",
+    "destination": "studies/cifar/results_ext5/ext5_v1_nr8_fixed_randmatch_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext5/ext5_v1_nr8_fixed_randmatch_710172102.json",
+    "source_sha256": "c9806191233129a1d3acf63d3012a5e5503b69303035bcf65041018aa4206c73",
+    "destination": "studies/cifar/results_ext5/ext5_v1_nr8_fixed_randmatch_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext5/ext5_v1_nr8_fixed_scale_710172100.json",
+    "source_sha256": "c156ef966dc3debbf00d6ccad19c2048e650e85f93a333392c5811c0a0ee0c2e",
+    "destination": "studies/cifar/results_ext5/ext5_v1_nr8_fixed_scale_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext5/ext5_v1_nr8_fixed_scale_710172101.json",
+    "source_sha256": "2d3af5466b2f4057ef65bb924d24009fb6d1fdad01028f1075d397e8cc347e73",
+    "destination": "studies/cifar/results_ext5/ext5_v1_nr8_fixed_scale_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext5/ext5_v1_nr8_fixed_scale_710172102.json",
+    "source_sha256": "79f418ea8bfae474fc2af3d944f6bbf87c1e7209d6ad3248f7b027aeb35e45fb",
+    "destination": "studies/cifar/results_ext5/ext5_v1_nr8_fixed_scale_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/analysis.json",
+    "source_sha256": "66f052614429856d6bc255d89fdd95dd4dac2544e9f5ebf47df33acf7e6d223b",
+    "destination": "studies/cifar/results_ext6/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v1.82_nr2_sel_710172100.json",
+    "source_sha256": "abb85f9e2c37d143d6f5440ae98a7e3c6afe498c9b54f8390c915487ad5cabab",
+    "destination": "studies/cifar/results_ext6/ext6_v1.82_nr2_sel_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v1.82_nr2_sel_710172101.json",
+    "source_sha256": "2b633de64c0e23e5b13791671105ab0fda981f8541b693fdcf6a02b10ca7666a",
+    "destination": "studies/cifar/results_ext6/ext6_v1.82_nr2_sel_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v1.82_nr2_sel_710172102.json",
+    "source_sha256": "adf8e4d2e2b401ba993a540b8cc15ac80e6ce8fae2d276080c25270fbef1529e",
+    "destination": "studies/cifar/results_ext6/ext6_v1.82_nr2_sel_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v1.82_nr8_sel_710172100.json",
+    "source_sha256": "aaaed25fa95a6ca9e888c1187c80b252483c717d00591eb3fe3f956acfbef295",
+    "destination": "studies/cifar/results_ext6/ext6_v1.82_nr8_sel_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v1.82_nr8_sel_710172101.json",
+    "source_sha256": "7e1ccf5aed2d8bf282817e32181f4e6137f91fb62a7d0f336f4b9a4717a8c60a",
+    "destination": "studies/cifar/results_ext6/ext6_v1.82_nr8_sel_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v1.82_nr8_sel_710172102.json",
+    "source_sha256": "5e9664eb32c328d0446af5b5420407e24bcae6addcb74c659554439dff342602",
+    "destination": "studies/cifar/results_ext6/ext6_v1.82_nr8_sel_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v4.07_nr8_sel_710172100.json",
+    "source_sha256": "f05b7a3b13defbe92332e6886e905e24093c47cdf30c43a9aa22c96d4d0bfc58",
+    "destination": "studies/cifar/results_ext6/ext6_v4.07_nr8_sel_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v4.07_nr8_sel_710172101.json",
+    "source_sha256": "184abcb6c2d0d4703c594029308090572d246c7c71b20a1fb266ede301c01118",
+    "destination": "studies/cifar/results_ext6/ext6_v4.07_nr8_sel_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext6/ext6_v4.07_nr8_sel_710172102.json",
+    "source_sha256": "4f5b0c1e811d18f18794ee7e83e62bf451a692edaed6e316ba2827b3248ebf0e",
+    "destination": "studies/cifar/results_ext6/ext6_v4.07_nr8_sel_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext7/analysis.json",
+    "source_sha256": "28d2870951afbcf67741405b3eb704d5dda950dbc9486ab09838644aad7ede52",
+    "destination": "studies/cifar/results_ext7/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext7/ext7_v1_nr2_sel_710172100.json",
+    "source_sha256": "4110d8b22c75ca8d010c95a376538077c607160619ac2d9014ad51f991cb9eab",
+    "destination": "studies/cifar/results_ext7/ext7_v1_nr2_sel_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext7/ext7_v1_nr2_sel_710172101.json",
+    "source_sha256": "f058e57900b533373e21a809e5d5bf2a27900cbe061b92a4230339e3ce252a0c",
+    "destination": "studies/cifar/results_ext7/ext7_v1_nr2_sel_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext7/ext7_v1_nr2_sel_710172102.json",
+    "source_sha256": "a74d0aec6c782b978577bcece549cbd94404b454c0df9f0ea38989472ca1793b",
+    "destination": "studies/cifar/results_ext7/ext7_v1_nr2_sel_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext7/ext7_v1_nr8_sel_710172100.json",
+    "source_sha256": "c91e2e21c13652f65f8fa3591e1d86d18984613789dfd4f95338969cc7c59d76",
+    "destination": "studies/cifar/results_ext7/ext7_v1_nr8_sel_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext7/ext7_v1_nr8_sel_710172101.json",
+    "source_sha256": "5eefc969fe891a7f1ded71d7dfb8a0c638bb06386d9782735acd10024e0d3706",
+    "destination": "studies/cifar/results_ext7/ext7_v1_nr8_sel_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext7/ext7_v1_nr8_sel_710172102.json",
+    "source_sha256": "33983579eb0ecf75711cbfad696074b559fe06a16909c7fb1b9c848b2d094402",
+    "destination": "studies/cifar/results_ext7/ext7_v1_nr8_sel_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/analysis.json",
+    "source_sha256": "9e3affbac8759f8a7f1680d9766b552603d63239495eb69d77c29637a15d5a0f",
+    "destination": "studies/cifar/results_ext8/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_fixed_710172100.json",
+    "source_sha256": "05533fdc0569d9aa60d52efdfcbbf28370252600873c5ab6f5a45f576b1b217c",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_fixed_710172101.json",
+    "source_sha256": "b226e5f1b99d14d5b27c4c9bace9f6cd691106529aefa26055fda8e985b81bff",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_fixed_710172102.json",
+    "source_sha256": "7764b032e067de409dbcd2f67e7b0b557c473047d34dbc6646d1749a56e6f1a2",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_mech_710172100.json",
+    "source_sha256": "c14c37c2a2c91164f536deae0a97b903a112d455096290fd86fd37d9d6bbbb48",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_mech_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_mech_710172101.json",
+    "source_sha256": "c5a2ac3b663916e4e7646531b2b7f4033656d3e91bec6424fced2a3fc71baba4",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_mech_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_mech_710172102.json",
+    "source_sha256": "a0305d87e813f4af9476deeb62dc41ee27d3df8a96a77a0f090750024b80e554",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_mech_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_sel_710172100.json",
+    "source_sha256": "ba75e2aeb7b7ffa4b4c7f7ef93ab639e22e2687225f865c6d3c9b075a96f797b",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_sel_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_sel_710172101.json",
+    "source_sha256": "f3b658f6347fde3bff7767962d0a06d97405d69e5999ed71eae153763c125173",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_sel_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1.82_sel_710172102.json",
+    "source_sha256": "f6161818f18eccba00b0fce26850690603e9cee6986561ce5e005a6cc0172ab0",
+    "destination": "studies/cifar/results_ext8/ext8_v1.82_sel_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_fixed_710172100.json",
+    "source_sha256": "b4473584a08b5c7644bbc3b4e0e12296a5f036500bd59522b58b8665c6b9b46f",
+    "destination": "studies/cifar/results_ext8/ext8_v1_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_fixed_710172101.json",
+    "source_sha256": "cac6464c8cc2d0f79e69bc1184b242c81b89ca93583c78fe057d71ae3a399d4c",
+    "destination": "studies/cifar/results_ext8/ext8_v1_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_fixed_710172102.json",
+    "source_sha256": "ef4fff423e40c5ed9b4d4d6a3abd3d54f47b62ca620e3ab7a6ed37c777ddf4d9",
+    "destination": "studies/cifar/results_ext8/ext8_v1_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_mech_710172100.json",
+    "source_sha256": "d08c52db26ddf3434572b9941d0dbc31b976d95b5924fb481b378635f5160a6e",
+    "destination": "studies/cifar/results_ext8/ext8_v1_mech_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_mech_710172101.json",
+    "source_sha256": "cbbb51f2a7f3aef563f63bc9ec015405e81a15d3ba23c537c4ca30dbe5038dbd",
+    "destination": "studies/cifar/results_ext8/ext8_v1_mech_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_mech_710172102.json",
+    "source_sha256": "3e4d721b66ba14305e3d79c28974429417a666a6370002c3390cfc89bef8aefa",
+    "destination": "studies/cifar/results_ext8/ext8_v1_mech_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_sel_710172100.json",
+    "source_sha256": "cab9333a1d0ca43f8ce9cfa8052bda9a5483ffb965066690fda7991ed5f83761",
+    "destination": "studies/cifar/results_ext8/ext8_v1_sel_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_sel_710172101.json",
+    "source_sha256": "1d5e2c3d807436bdce65c5d5384f7c4f1c7ffbf160073c444343f8b8db2be90f",
+    "destination": "studies/cifar/results_ext8/ext8_v1_sel_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v1_sel_710172102.json",
+    "source_sha256": "05df12c298848e49e2696ae1c3fe8963f56bd4cbabc4a12607eabb25117095b8",
+    "destination": "studies/cifar/results_ext8/ext8_v1_sel_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v4.07_fixed_710172100.json",
+    "source_sha256": "12863b49b7701deebc35e38a7e321f0724d079a9eb39c90b6bb72a7599423047",
+    "destination": "studies/cifar/results_ext8/ext8_v4.07_fixed_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v4.07_fixed_710172101.json",
+    "source_sha256": "ae6840e4f37d48b03db7a27ae9014ed88b684682fdf878c66e6d73bf89591272",
+    "destination": "studies/cifar/results_ext8/ext8_v4.07_fixed_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v4.07_fixed_710172102.json",
+    "source_sha256": "9b556853c7611f414fa70f8d36c13c49f0544268247596a3134e46e8cd410fc5",
+    "destination": "studies/cifar/results_ext8/ext8_v4.07_fixed_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v4.07_sel_710172100.json",
+    "source_sha256": "e2af3befb79d7f0f03b389084ebcaf25023d0fe5a79c3bf6bf6eda7f223a44c4",
+    "destination": "studies/cifar/results_ext8/ext8_v4.07_sel_710172100.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v4.07_sel_710172101.json",
+    "source_sha256": "30963785036b80794711d5dddcb8065bfe2d25c00bca8b509c57bcada4dbf780",
+    "destination": "studies/cifar/results_ext8/ext8_v4.07_sel_710172101.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/results_ext8/ext8_v4.07_sel_710172102.json",
+    "source_sha256": "97682f1845b23a00306e2216dbb4ffbac940d5cfcf82e724c362faf712fa69b8",
+    "destination": "studies/cifar/results_ext8/ext8_v4.07_sel_710172102.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/analyze.py",
+    "source_sha256": "8222b37ea777d8598b86d2d4212b31611269ebc3be33adaef5aafdb11ea0a92d",
+    "destination": "studies/cifar/src/analyze.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/check.py",
+    "source_sha256": "72ba37e3342a587bd33e95594e36194b99dce0cb5639b92a66c646cc358db2ad",
+    "destination": "studies/cifar/src/check.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch.py",
+    "source_sha256": "e2c998218e27094b74c534b4c55dc5aeabb96a7f02c7f9b623caebae4f0f3503",
+    "destination": "studies/cifar/src/launch.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch_ext1.py",
+    "source_sha256": "7e3d52d010bdd8ea9cc3a14c319a3233ab1cfabd3afc2d4365c9f782f521ab80",
+    "destination": "studies/cifar/src/launch_ext1.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch_ext2.py",
+    "source_sha256": "6613f72569463609f82d4f37d38a471852bd013f1ed811749bed9438c860a7eb",
+    "destination": "studies/cifar/src/launch_ext2.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch_ext3.py",
+    "source_sha256": "44ec1ee2b3d1d8d0fc7b0f90571f188c4eac3c0c473a11eb3ae248aa4d37eafa",
+    "destination": "studies/cifar/src/launch_ext3.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch_ext4.py",
+    "source_sha256": "7758a1267aeb260a0af584391cfb1f91e0ac2eaa5613fdf1a4e13901445a5b7a",
+    "destination": "studies/cifar/src/launch_ext4.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch_ext5.py",
+    "source_sha256": "a9d6d08dbafbc40f39a01e3c723a565221be464c1e60256f1fcfd625a9ada399",
+    "destination": "studies/cifar/src/launch_ext5.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch_ext6.py",
+    "source_sha256": "88005b815e157302780d1752f170bf341debcab9b098e0ab6e34e5c34a74d2ee",
+    "destination": "studies/cifar/src/launch_ext6.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch_ext7.py",
+    "source_sha256": "55977be07e304382d38efb434f5cee50e35c2201bfa57539c860fcc405185959",
+    "destination": "studies/cifar/src/launch_ext7.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/launch_ext8.py",
+    "source_sha256": "9e0f090e413ba4a205bcf15abb577d4d2e0665775e690355b601037c9098ef2e",
+    "destination": "studies/cifar/src/launch_ext8.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/run.py",
+    "source_sha256": "0de00d60cf885e5af00eb3f8b54d98e2c5ea8668dbfea1105387c607b8e7c005",
+    "destination": "studies/cifar/src/run.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/run_ext5.py",
+    "source_sha256": "ed29253918bd0d93884bf867dd72ebdeed4713a1375f029b3912c52469e9212b",
+    "destination": "studies/cifar/src/run_ext5.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/run_ext8.py",
+    "source_sha256": "7ee1058a3076c2321288d74aa807acd47287616852dffdf40d69a7f4887d47cf",
+    "destination": "studies/cifar/src/run_ext8.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_cifar/src/spectrum.py",
+    "source_sha256": "b4a1957d815bd37bda13775ca7e6c27192c18724aae9a159c1675dd85d25fcf5",
+    "destination": "studies/cifar/src/spectrum.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/SPEC.md",
+    "source_sha256": "d3df507401f81b5568849ec668f75083aa746e202ab85e7f5852585183808bcb",
+    "destination": "studies/convergence/SPEC.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/SPEC_ADDENDUM_adam_scaled.md",
+    "source_sha256": "10a2ccf781f9402ea2bbd9eb8a0225bac72094ac0ad912bc2c88d0bf3cd7fc05",
+    "destination": "studies/convergence/SPEC_ADDENDUM_adam_scaled.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/VERDICT.md",
+    "source_sha256": "ea89bde7d08cd8f5a2bab3b3da2c396322c6da5f97ec518bbc411c244bb825a5",
+    "destination": "studies/convergence/VERDICT.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/configs/cdl_a.csv",
+    "source_sha256": "25499cbd22e9724767882588af0f92e360d30812eb376eae10e5f11997383423",
+    "destination": "studies/convergence/configs/cdl_a.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/configs/config.json",
+    "source_sha256": "8012a1d4000036039a093904f6c5b4872fd72332da2d0ee754d2ce4dbcb46e34",
+    "destination": "studies/convergence/configs/config.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/adam_scaled.json",
+    "source_sha256": "a011dc0e43ce431021553b2a61c1e59ba8d3b10228be07b06bbdea32d2595914",
+    "destination": "studies/convergence/results/adam_scaled.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/analysis.json",
+    "source_sha256": "375c82fec6011a63109aeb76a1e7ad7ef98ddd67076f157fa731b39699df3b30",
+    "destination": "studies/convergence/results/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/analysis_rev0_median_bug.json",
+    "source_sha256": "c9df068413d84850e8654f53711e65643f875e6cf82c9384dadd68817705086d",
+    "destination": "studies/convergence/results/analysis_rev0_median_bug.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/calibration.json",
+    "source_sha256": "23ef3bbd957307e16bbf655d16c151c09dd03eb8163d97d23963ecd5b435f584",
+    "destination": "studies/convergence/results/calibration.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/calibration_attempt1_floored.json",
+    "source_sha256": "9ddda83ebd88e3a649f313a4d669118f0423ac09da980099477e3fc9f27ca607",
+    "destination": "studies/convergence/results/calibration_attempt1_floored.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/curves.npz",
+    "source_sha256": "6b29572df8e9fff31cab72347daa19eed8a2786f83189defb9ee78ec448f5fc0",
+    "destination": "studies/convergence/results/curves",
+    "transformation": "lossless array JSON conversion; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/rows.jsonl",
+    "source_sha256": "2c5c4c022482aae82179450c58eed8952a0a40a601b6c59dcfa307da3532d0c4",
+    "destination": "studies/convergence/results/rows.json",
+    "transformation": "JSON row-array conversion; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/slope_bootstrap.json",
+    "source_sha256": "e83f77180f76a269c646e063647e330f102aaf1b30cb0556130effa43dea2c2a",
+    "destination": "studies/convergence/results/slope_bootstrap.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/results/theory.json",
+    "source_sha256": "a8334d55a5e91fb647f116dd6b347a62f609b15b4539091fdd9df0a958ec9f28",
+    "destination": "studies/convergence/results/theory.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/src/adam_scaled.py",
+    "source_sha256": "ff0dfd901bfcc466d13735c2438d772cca69a4af3e7674662fc0551d0a72f50f",
+    "destination": "studies/convergence/src/adam_scaled.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/src/analyze.py",
+    "source_sha256": "2e9526b3b218cfe61c5c6671ed6298327b4b83594ccd6a1e52c509548bcc4afc",
+    "destination": "studies/convergence/src/analyze.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/src/bootstrap.py",
+    "source_sha256": "07f8031b9abdf45899f1854dd4afefdd182506002d7ff51de3c92a1959e62c23",
+    "destination": "studies/convergence/src/bootstrap.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/src/calibrate.py",
+    "source_sha256": "9407e2d3700eaf7f6d48c14354cbed3f2f45cbe19353b4cbf331f8a329b78459",
+    "destination": "studies/convergence/src/calibrate.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/src/conv.py",
+    "source_sha256": "80cca5ed1f9f8abf4a2299614c25590fe83e591f8adbc95956ec4f44e957c190",
+    "destination": "studies/convergence/src/conv.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/src/core.py",
+    "source_sha256": "53725c8bdcacb8830e1b0cdb627602e664f534bef4575f9d73fa248775c0832c",
+    "destination": "studies/convergence/src/core.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/src/formal.py",
+    "source_sha256": "c5d341f73c6f855f2ad09d633788719d0483ff1b359370e3211f128b164678cd",
+    "destination": "studies/convergence/src/formal.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_convergence/src/theory.py",
+    "source_sha256": "88980343a4461e3068a81312a6a54ec73a8b71f03d3b6e8fd148f2f9d7a28f42",
+    "destination": "studies/convergence/src/theory.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/FREEZE_SHA256.txt",
+    "source_sha256": "a3a67242c56d19a5c3b7d754e292d242da5045e34eb312924bf6003e938f954e",
+    "destination": "studies/pathmode/FREEZE_SHA256.txt",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/FREEZE_SHA256_rev1.txt",
+    "source_sha256": "8fd5920f86c9a7c410097556315a7792133560c039b897d89934ccc9dc7ce14c",
+    "destination": "studies/pathmode/FREEZE_SHA256_rev1.txt",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/REVISION_rev1.md",
+    "source_sha256": "059f8d21fcff725f603ababc1163f328049e4d46d663c3ca010b3a4bd1d0dbca",
+    "destination": "studies/pathmode/REVISION_rev1.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/SPEC.md",
+    "source_sha256": "7328f06dd065753cdf6f1841be0abd87e93427a917742f3375b879809c99bc49",
+    "destination": "studies/pathmode/SPEC.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/VERDICT.md",
+    "source_sha256": "1ef5ca82138fdb93b4ad9c2c6aad5445d58dbfc6c622493bcd8f874a799302c0",
+    "destination": "studies/pathmode/VERDICT.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/pilot/c_generic.json",
+    "source_sha256": "16bc7718c6789c59c4ff861f1e013fbd32d2da9b69d667cccf330478bba88c56",
+    "destination": "studies/pathmode/pilot/c_generic.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/pilot/c_path.json",
+    "source_sha256": "8d9cfd47ec84b3abd148e18ae4ca85e38297ed28904f71983d9dcd3177915314",
+    "destination": "studies/pathmode/pilot/c_path.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/pilot/p_generic.json",
+    "source_sha256": "6dd88d2256d0d98f5f1c2045a046bf31e064224dc702eeb9616895fb1e2be321",
+    "destination": "studies/pathmode/pilot/p_generic.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/pilot/p_path.json",
+    "source_sha256": "a6b5ba57d70ac17d4237c5dd827f3d93cc5b64fb4bc2eaa4fc3ab16becc24184",
+    "destination": "studies/pathmode/pilot/p_path.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.2_s1.json",
+    "source_sha256": "48156e939ea2a599517f6ceae90ffbc018d84dfc6526e76518e74cbc72623219",
+    "destination": "studies/pathmode/results/along_generic_r0.2_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.2_s2.json",
+    "source_sha256": "983f1723b7b71abc728eecfbd883b95e48b25ac4b634a114defdc5d8a300feaf",
+    "destination": "studies/pathmode/results/along_generic_r0.2_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.2_s3.json",
+    "source_sha256": "aa827da09a5afd20ad35c2eafe7eb7c2cc05ca42a91b5700df0d628197af14fa",
+    "destination": "studies/pathmode/results/along_generic_r0.2_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.2_s4.json",
+    "source_sha256": "b10b7ce9e70e294ae57dcb9226dd0c2096d1a43ac53244e3e33188fe814e742b",
+    "destination": "studies/pathmode/results/along_generic_r0.2_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.2_s5.json",
+    "source_sha256": "2cf784f5e4a16ac6e1f6043a4bd5380fb60d7574d396fc8dbba8b3de83f27c08",
+    "destination": "studies/pathmode/results/along_generic_r0.2_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.47_s1.json",
+    "source_sha256": "78add5fcf9804655c99f385921fbf7aef874523220ec284250897bced4e7b573",
+    "destination": "studies/pathmode/results/along_generic_r0.47_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.47_s2.json",
+    "source_sha256": "89af79059822d785f664728033089c7858fc349a7885f24515776c750d3bc3f4",
+    "destination": "studies/pathmode/results/along_generic_r0.47_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.47_s3.json",
+    "source_sha256": "8bd1f8dc16134b12f397175d2fddd9102972c48e3d5c4b202ca1f87b287f0ad1",
+    "destination": "studies/pathmode/results/along_generic_r0.47_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.47_s4.json",
+    "source_sha256": "d568bd0049b4a3f364976be3b9dae82b612b1ddd84e807502ef3e1966dd9db10",
+    "destination": "studies/pathmode/results/along_generic_r0.47_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0.47_s5.json",
+    "source_sha256": "a49e210d0a71318d2f396db094fba7b20281a0405fee950439504174907e8ed3",
+    "destination": "studies/pathmode/results/along_generic_r0.47_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0_s1.json",
+    "source_sha256": "a47dd56a9bbc72a5d50fe73e47933be5628fa206487dcee8b15bd626476a9fe4",
+    "destination": "studies/pathmode/results/along_generic_r0_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0_s2.json",
+    "source_sha256": "03ada234dc27908d4ab473ba94d2329460a5dc3d64d5becb85661ec264f11c33",
+    "destination": "studies/pathmode/results/along_generic_r0_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0_s3.json",
+    "source_sha256": "3c18044e2b6d25468c300ce11a15230d32500e0e6732a0e0353867d5a2d23101",
+    "destination": "studies/pathmode/results/along_generic_r0_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0_s4.json",
+    "source_sha256": "1c32eadadde7b4f46d4564850567c7a8702be4a6b9e32d26cfda1f0330e6f594",
+    "destination": "studies/pathmode/results/along_generic_r0_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_generic_r0_s5.json",
+    "source_sha256": "09230174025780438d2229b3ee59265cba8ec1a18a32baac02d64e177c63e9c3",
+    "destination": "studies/pathmode/results/along_generic_r0_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.2_s1.json",
+    "source_sha256": "f11bc7e8319d21e2077ee6ab58dbf851fd239aebd8279e85197a69f111d0431a",
+    "destination": "studies/pathmode/results/along_path_r0.2_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.2_s2.json",
+    "source_sha256": "320ff7cc55b9da13153fce6b82b1e7639878c98a648f78a2225759ec1bc5adc3",
+    "destination": "studies/pathmode/results/along_path_r0.2_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.2_s3.json",
+    "source_sha256": "9df086ad399c6947982fa863440cc34959fdb65a4feb0491e752ecddc2e73fd7",
+    "destination": "studies/pathmode/results/along_path_r0.2_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.2_s4.json",
+    "source_sha256": "9577a3bf52e7b281bc29bf0c95098ca37bba86e238f5db6f2aa36a7604ef6818",
+    "destination": "studies/pathmode/results/along_path_r0.2_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.2_s5.json",
+    "source_sha256": "75444cf34f656696fef2c5f51285df679094476b1523f0ab02364ba41238e7ec",
+    "destination": "studies/pathmode/results/along_path_r0.2_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.47_s1.json",
+    "source_sha256": "2068fd439b5a392db361465dd1c516abb12b6f3c13b4a9a8c869d3c6fd501d9c",
+    "destination": "studies/pathmode/results/along_path_r0.47_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.47_s2.json",
+    "source_sha256": "e775d872176f4ddffad24d9476be3dabe05bf34c7098b6c90c88cba0707b93c3",
+    "destination": "studies/pathmode/results/along_path_r0.47_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.47_s3.json",
+    "source_sha256": "1115042275aa1f5f1f1d92b029267e69650f965fdcde7c3d1c98c4592628bb20",
+    "destination": "studies/pathmode/results/along_path_r0.47_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.47_s4.json",
+    "source_sha256": "8dd7a3f5fb1033d2e29fb40a9c4af1e25087f4d9f8653ecb44745d9db7a2197a",
+    "destination": "studies/pathmode/results/along_path_r0.47_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0.47_s5.json",
+    "source_sha256": "4d6d478de97b39f97141933247a3f4c75ed5c34ab496949a876b47bc92e764ad",
+    "destination": "studies/pathmode/results/along_path_r0.47_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0_s1.json",
+    "source_sha256": "15ce3aff8a8a8ec93f77578e7b752cca84767c7b9a94a0176de0a6f2c1ad1b52",
+    "destination": "studies/pathmode/results/along_path_r0_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0_s2.json",
+    "source_sha256": "8514b1d3f94b65dd0883676d521a1758477e6dab0333ad36d8d0999c0cd519ab",
+    "destination": "studies/pathmode/results/along_path_r0_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0_s3.json",
+    "source_sha256": "f5b56add390c0a6edecaecfa6bae6f81026cda0197ac9175ec19bc51dc663b70",
+    "destination": "studies/pathmode/results/along_path_r0_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0_s4.json",
+    "source_sha256": "254c233a1a41ceb4c8a87d704790d1fd8639e62c9591ba4975c66d0d991afbbb",
+    "destination": "studies/pathmode/results/along_path_r0_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/along_path_r0_s5.json",
+    "source_sha256": "cdb3cdfb7f40f06245b0f5a754153f36768da47106c863eaca6b555266db6153",
+    "destination": "studies/pathmode/results/along_path_r0_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/analysis.json",
+    "source_sha256": "ae15dee1030d71d27a12315121e59da6bb95953637593b3fbccdc4a920c66c25",
+    "destination": "studies/pathmode/results/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.1_s1.json",
+    "source_sha256": "391210aea06b7a66f7371d29c50a4e8a9cb0a5404f67b81edbdbed6b9510981e",
+    "destination": "studies/pathmode/results/sep_generic_r0.1_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.1_s2.json",
+    "source_sha256": "e04ab8b10ce2a19ce0ee37569bc45a685780cbe0914f6f033eb0ca7366dfa254",
+    "destination": "studies/pathmode/results/sep_generic_r0.1_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.1_s3.json",
+    "source_sha256": "b357b6ed2a274f1c9b0854206c655ee17fcfccbcf5e89fdc19c1b0397683d228",
+    "destination": "studies/pathmode/results/sep_generic_r0.1_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.1_s4.json",
+    "source_sha256": "5ab2a5cad3e0cdad042db5211545cdf8015452484a6eab4b1777072aaeb331df",
+    "destination": "studies/pathmode/results/sep_generic_r0.1_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.1_s5.json",
+    "source_sha256": "1d7ed78307891a2b0f00524a1c5ab1fa3c0774b19606a2625d23ed9b7ab8b6c5",
+    "destination": "studies/pathmode/results/sep_generic_r0.1_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.2_s1.json",
+    "source_sha256": "7778f36f4ff5a204fbcca81e15f65632caf9cd9f63f811873d28c94e5228e2a7",
+    "destination": "studies/pathmode/results/sep_generic_r0.2_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.2_s2.json",
+    "source_sha256": "b2abdff27b7f74e8363dc0fb61bdd6458cce5a5baaa941ab5c02ee56c1259e03",
+    "destination": "studies/pathmode/results/sep_generic_r0.2_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.2_s3.json",
+    "source_sha256": "6023d0dd1c961eea018400859ad0d5328fd42445c32663427fa626433f6ddd9b",
+    "destination": "studies/pathmode/results/sep_generic_r0.2_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.2_s4.json",
+    "source_sha256": "53b58fcc52ce0cacb46d389cd2e3d5d40ac81d60dc9dc1c612a8573323ac95cb",
+    "destination": "studies/pathmode/results/sep_generic_r0.2_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.2_s5.json",
+    "source_sha256": "3a4cb79f44133dccdc4763185cef22e3377f997e4cd4d4c4a2476c217c6c25db",
+    "destination": "studies/pathmode/results/sep_generic_r0.2_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.3_s1.json",
+    "source_sha256": "3e6882d0a745cdc7c1711c68ab642f8e024470a2b533d4a6bb49c5e4a75dbb17",
+    "destination": "studies/pathmode/results/sep_generic_r0.3_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.3_s2.json",
+    "source_sha256": "90efa18d9b4d44fb8e9211a1a05f1a9426718f7ebec0953fa5ae5ef4208269db",
+    "destination": "studies/pathmode/results/sep_generic_r0.3_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.3_s3.json",
+    "source_sha256": "b607ab5ebf2d8c6599c5c532b3cd4b8284cd61a0bac5e7baa15f205f46f2696b",
+    "destination": "studies/pathmode/results/sep_generic_r0.3_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.3_s4.json",
+    "source_sha256": "afa77a18f1f856524482a58d4ded12bd34fba648ada84be83b84aa64f8a6f573",
+    "destination": "studies/pathmode/results/sep_generic_r0.3_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.3_s5.json",
+    "source_sha256": "e2d2fcc5348e4d120dd00af00d41c5b023767f1ef1fd950c67e6fd0bda411738",
+    "destination": "studies/pathmode/results/sep_generic_r0.3_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.47_s1.json",
+    "source_sha256": "e234fa0632dd6843b0983721bc64e15acbe566719db8642bdfe02f70afc66660",
+    "destination": "studies/pathmode/results/sep_generic_r0.47_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.47_s2.json",
+    "source_sha256": "41f2dc092ad686ea1d734d90e622107204b623916ef19a58a74e7e8b632f93f4",
+    "destination": "studies/pathmode/results/sep_generic_r0.47_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.47_s3.json",
+    "source_sha256": "c22455d464da6496d8eb2e72e4f07aaadd24b6f3f4d295b6a0dc7872bd54ed4e",
+    "destination": "studies/pathmode/results/sep_generic_r0.47_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.47_s4.json",
+    "source_sha256": "633dd9edc13cdb6f9789ad9b16f509b60c4b3cb60b160facc31bc1337cae6c38",
+    "destination": "studies/pathmode/results/sep_generic_r0.47_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.47_s5.json",
+    "source_sha256": "3b05980693bcb365be1f68a691b21a8cd534d33295d9685ed87b5bfbf53bda92",
+    "destination": "studies/pathmode/results/sep_generic_r0.47_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.4_s1.json",
+    "source_sha256": "08120ef33dea899c2f97a1e878d09c28e6d1b54d84806582dc64c91aae16280d",
+    "destination": "studies/pathmode/results/sep_generic_r0.4_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.4_s2.json",
+    "source_sha256": "06ef93c8d59269ad6f0f7fccfafcf435e5d8d3c437494e65a49c67b64ff4baa8",
+    "destination": "studies/pathmode/results/sep_generic_r0.4_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.4_s3.json",
+    "source_sha256": "7273ce5aedfaf230a00bd7d7408ea21e30976c737b643f61e640ec6157300044",
+    "destination": "studies/pathmode/results/sep_generic_r0.4_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.4_s4.json",
+    "source_sha256": "d1556220b89eef0033451f2bb79d585482d64f84c9a57e43a34e7eecc12529c1",
+    "destination": "studies/pathmode/results/sep_generic_r0.4_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0.4_s5.json",
+    "source_sha256": "d4a1859401c853722813e82e9208960eac212f3ddd48f29c84d003591e10304b",
+    "destination": "studies/pathmode/results/sep_generic_r0.4_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0_s1.json",
+    "source_sha256": "4a6c25a9feb9ec763000c0d19c31e88e942e8beb0f784d6aaba1c7dd0718ed3c",
+    "destination": "studies/pathmode/results/sep_generic_r0_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0_s2.json",
+    "source_sha256": "6b688bb6c5899fa24f673c9f538723ae3834fa7b6c61629f13f2b001ca5f08d5",
+    "destination": "studies/pathmode/results/sep_generic_r0_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0_s3.json",
+    "source_sha256": "4cdd81d4056fefc4ae39fd7cc51aba20b783e4b460cd1a0a9040ea79a6dcd835",
+    "destination": "studies/pathmode/results/sep_generic_r0_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0_s4.json",
+    "source_sha256": "f5e02b53a0f6450b6b83f90820e13a80cb24b20995f021dc0ad7bba047591e92",
+    "destination": "studies/pathmode/results/sep_generic_r0_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_generic_r0_s5.json",
+    "source_sha256": "b08d2a4cbad3fdb64620594764b653eb6bf56490ea46815f3d4ac6db4f0a5d61",
+    "destination": "studies/pathmode/results/sep_generic_r0_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.1_s1.json",
+    "source_sha256": "09b7e3a688a9892264f2a9db9ed800be4e6b8aa4dd86e827557bdeb1f286f8a0",
+    "destination": "studies/pathmode/results/sep_path_r0.1_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.1_s2.json",
+    "source_sha256": "3993d589dd5524d5bd37a54e1676bd835e736478a63352bdce851a0d70608e97",
+    "destination": "studies/pathmode/results/sep_path_r0.1_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.1_s3.json",
+    "source_sha256": "8e79f87a1e1b6cef88e89d27a7844935e162c49650ec8addb00cf321f40bd6ef",
+    "destination": "studies/pathmode/results/sep_path_r0.1_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.1_s4.json",
+    "source_sha256": "241bebf3f60e0f541e69619f86991eb16ef78a8dda5acee3830ffe87b583d807",
+    "destination": "studies/pathmode/results/sep_path_r0.1_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.1_s5.json",
+    "source_sha256": "894677ea529dfe4979538601b02e316a596f0bcefb4ece34e462fc4afb578ee1",
+    "destination": "studies/pathmode/results/sep_path_r0.1_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.2_s1.json",
+    "source_sha256": "c58a743e135bf8ce29efcbb7fb69a1cb00b7c8b010a0e18faff113bb1ad93615",
+    "destination": "studies/pathmode/results/sep_path_r0.2_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.2_s2.json",
+    "source_sha256": "d0ea5a1c0eaae9ca782cb54ad0db94dfb67247b93a266cf99084afb4e6ecac6b",
+    "destination": "studies/pathmode/results/sep_path_r0.2_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.2_s3.json",
+    "source_sha256": "3e8aeea3284de84a704ff90e6ba5e2629f79ce94ad9273c489685dc3e1877e6e",
+    "destination": "studies/pathmode/results/sep_path_r0.2_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.2_s4.json",
+    "source_sha256": "0fafa2ec032bdbf6fcedb0358ec634f8009cb7d8eaed4002759f53ae0a146012",
+    "destination": "studies/pathmode/results/sep_path_r0.2_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.2_s5.json",
+    "source_sha256": "858998c4c4b1dcb5cb714193da50357a93750a625b503639d0721328a281c6d1",
+    "destination": "studies/pathmode/results/sep_path_r0.2_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.3_s1.json",
+    "source_sha256": "84b260089e3eab38541130e11b74b564345a2e9f374edba1b7d22a78387a4d56",
+    "destination": "studies/pathmode/results/sep_path_r0.3_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.3_s2.json",
+    "source_sha256": "c0548aeda5ae6fc0c178cb280bd1b7890e5460c4c8f31fde6d67429060c479ef",
+    "destination": "studies/pathmode/results/sep_path_r0.3_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.3_s3.json",
+    "source_sha256": "2ef633cd2af2bfd3b04797fb3b4e828e5dd6aa017dbcdacc340074fc3d45d7bc",
+    "destination": "studies/pathmode/results/sep_path_r0.3_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.3_s4.json",
+    "source_sha256": "cc3b2e9102f80f1276714062d81815804468d817c64605b370e48f35361a91cd",
+    "destination": "studies/pathmode/results/sep_path_r0.3_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.3_s5.json",
+    "source_sha256": "8fe42cc8d71f896e0adb17da88f498344cd40a99a8fe476df095cb1ad539c2f8",
+    "destination": "studies/pathmode/results/sep_path_r0.3_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.47_s1.json",
+    "source_sha256": "4347857474d11f13cc09dae8a17a434a5490df60b1b629363f25ce422d35df9c",
+    "destination": "studies/pathmode/results/sep_path_r0.47_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.47_s2.json",
+    "source_sha256": "1e0d6eaa604ee030aa3ade22764cc8a9a1be182fb16fca7594fa2e1b00bc9f78",
+    "destination": "studies/pathmode/results/sep_path_r0.47_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.47_s3.json",
+    "source_sha256": "5ce7bc2576b31037ea56ee19638e01922dff2469b3d201b346d95db8add2b0ad",
+    "destination": "studies/pathmode/results/sep_path_r0.47_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.47_s4.json",
+    "source_sha256": "a9d44e2590f1df2db6ef8b2277197422392d41d774795728b8786f71452fbb22",
+    "destination": "studies/pathmode/results/sep_path_r0.47_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.47_s5.json",
+    "source_sha256": "d555b0b9f88e98ce7124b43590bfb06f863ec428b6570110d231206feb9c2397",
+    "destination": "studies/pathmode/results/sep_path_r0.47_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.4_s1.json",
+    "source_sha256": "1d338c94fb296aef5d8b3db444fe78c6919ce7981c6ba0913adf8595d071016e",
+    "destination": "studies/pathmode/results/sep_path_r0.4_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.4_s2.json",
+    "source_sha256": "b1e71da48e8e4b4a70632c51e9dbe907d806260ab81f1a7e5b5bf88413a0b5e2",
+    "destination": "studies/pathmode/results/sep_path_r0.4_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.4_s3.json",
+    "source_sha256": "46e6cb5484146c714393350fbe54253e860ad15668b2a9b588eb28386a9618cb",
+    "destination": "studies/pathmode/results/sep_path_r0.4_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.4_s4.json",
+    "source_sha256": "b826253f63431b379bfa3f8015e88d5d6d175d3fc6476b660586f4bfef807ae0",
+    "destination": "studies/pathmode/results/sep_path_r0.4_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0.4_s5.json",
+    "source_sha256": "6f15f1bea6ef733f1a9b894cdaa7ec8215603a2fdccc0231b996f184e5be505f",
+    "destination": "studies/pathmode/results/sep_path_r0.4_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0_s1.json",
+    "source_sha256": "aaae202f6675ee27af0554f5f354aeb5b729bf170e9fddee05b37677b298d584",
+    "destination": "studies/pathmode/results/sep_path_r0_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0_s2.json",
+    "source_sha256": "a4e521b6858eab2bdfaac705be5b62458eac2aecce1b88792b147f8c3666067d",
+    "destination": "studies/pathmode/results/sep_path_r0_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0_s3.json",
+    "source_sha256": "0d93c2bc6803073162f3d9fd6edf0d89959477c49ac4c80f3e0cb6bfc0f869ee",
+    "destination": "studies/pathmode/results/sep_path_r0_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0_s4.json",
+    "source_sha256": "789730efe707465bcbe66c3692408b4bf8630a1c61467414f5a61720f17e43f9",
+    "destination": "studies/pathmode/results/sep_path_r0_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results/sep_path_r0_s5.json",
+    "source_sha256": "d48cb4d5a59dfac1dec55bba106938c1a3deddcce6307f195281e7e7928559e4",
+    "destination": "studies/pathmode/results/sep_path_r0_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.2_s1.json",
+    "source_sha256": "6f9214936e4f3f96dfa70d54a59a8abcdf858c6af57f85d2565416dc44ac58d7",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.2_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.2_s2.json",
+    "source_sha256": "54bbde08d111daf9db5617a558ae916f510eaa2ebe5977de5081d64b3a2b6ef3",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.2_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.2_s3.json",
+    "source_sha256": "f0e6c73475c747c39a0e3ed7a1a6a784eb8eac24d3f02eb60cdbf03180e2340c",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.2_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.2_s4.json",
+    "source_sha256": "1bccad38dd7d82f9ce78a779f97514264eae2fe19fa50fd72f03dac8694e6443",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.2_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.2_s5.json",
+    "source_sha256": "334931bec26d914cccdc72e8c02daa3b0462f9ab972f6c98b2aab76be3ecaa59",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.2_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.47_s1.json",
+    "source_sha256": "213ad9d34ef0a04695f699baef618c9015b8a5c9d13aa419cf342321967b9341",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.47_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.47_s2.json",
+    "source_sha256": "2ea2ff019e29cb1b538cf0d418b825add1db7da84fa6d8ba4fe8eea419cdb6e3",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.47_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.47_s3.json",
+    "source_sha256": "078d6819f462648a570b70fc77b9b29c99f8ce7ee88d8e6299377c13790ddfa1",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.47_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.47_s4.json",
+    "source_sha256": "af370915c4efbae6d0ef8d5402452cb1e1e7063b555896deb6203a0ced9089fd",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.47_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0.47_s5.json",
+    "source_sha256": "2d07da1004293953350229e4651b3e77477f6100bf53903cb7fd908425ee40f8",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0.47_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0_s1.json",
+    "source_sha256": "affb5c113fef4b9d976bb61142781132a9201bb160bd293a84d2b3ae8b87ae19",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0_s2.json",
+    "source_sha256": "694638e7ead6c58d2b9243d2e5146e55e728a750f38605f43a11c17642ac3949",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0_s3.json",
+    "source_sha256": "a4d835c948a2919bd734f0150b323b27dd7c05deff6678fa54354f89ebc39e8d",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0_s4.json",
+    "source_sha256": "eeb2c94e91ddaa247d5c47e5afcca3d6b56216edae6397f19aaa3aa08b96ff2a",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_generic_r0_s5.json",
+    "source_sha256": "ace2a3fce9d869cd905315d00545d9d2ec1203ea16bcf2e596a461d2c0bc3826",
+    "destination": "studies/pathmode/results_rev1/along_generic_r0_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.2_s1.json",
+    "source_sha256": "0ca377e1d3838d695255d2696d92fd9306cefddb9d82fb4456671676d07bb765",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.2_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.2_s2.json",
+    "source_sha256": "3f477fabdef005a5abe913feea00e299b0dc657bb47805ecf80c055c01dfd26f",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.2_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.2_s3.json",
+    "source_sha256": "3b0d27d430fcb0181869a635a99ec15edfd4e9bc6ed1bee21d92534a71b696f1",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.2_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.2_s4.json",
+    "source_sha256": "56f528ea094b217cf186cc57801957e37ddc158783e2e068cbc7a2bcfe7d95a9",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.2_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.2_s5.json",
+    "source_sha256": "009f79f2805a6f8e76f58024cccc935d5d76aa93a04dc529628d3dad2630cb99",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.2_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.47_s1.json",
+    "source_sha256": "f652f378fe731b30cd235d365b8642086c79fc1ac3151650138ef3c35bba228d",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.47_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.47_s2.json",
+    "source_sha256": "a89ff76fe780fb6b4d507c70c8c80346e598827f8f105fc8c4212956fe72ebfc",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.47_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.47_s3.json",
+    "source_sha256": "66bfb44fc1db6ad11017357f662a7449d9553a0ebea2ee31e0673793e860ef49",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.47_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.47_s4.json",
+    "source_sha256": "980eb61c1873114fa5b507758b403b3ff8e77c3b1d4fda60af0a50793b97416f",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.47_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0.47_s5.json",
+    "source_sha256": "a1ce94fbf63406f6064b49a39e890a58f1ca23c127633b6f0303ddba313f3f40",
+    "destination": "studies/pathmode/results_rev1/along_path_r0.47_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0_s1.json",
+    "source_sha256": "a29e51624002b9cb3b4f446f97146ebc6e1f9093e1a3bdb0eab955304eda9835",
+    "destination": "studies/pathmode/results_rev1/along_path_r0_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0_s2.json",
+    "source_sha256": "1d1b679e21ab0d1a321cba662b2347b028b2e4a9d93e11594054f07ff270f93c",
+    "destination": "studies/pathmode/results_rev1/along_path_r0_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0_s3.json",
+    "source_sha256": "8dd7fc691caf8c1faf05a1607f9b86c0efcac18d7b47cbf35a23ca53c46057ae",
+    "destination": "studies/pathmode/results_rev1/along_path_r0_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0_s4.json",
+    "source_sha256": "789d35f500578bc157376af8416e067f9939e0b69d9fe5ecb9bd7dd3512173f9",
+    "destination": "studies/pathmode/results_rev1/along_path_r0_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/along_path_r0_s5.json",
+    "source_sha256": "0e3f4854bedbbae18292952ecc9384c7dcf988194b04a32e3d40f93efb21fa0e",
+    "destination": "studies/pathmode/results_rev1/along_path_r0_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/analysis.json",
+    "source_sha256": "aac529850f76970f5f0962981e84df6da63a4768db82d74e75f67e777d589224",
+    "destination": "studies/pathmode/results_rev1/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.1_s1.json",
+    "source_sha256": "628c5da647f574a6b8a0aabec5e05055069db451a0466096520c95aaac645712",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.1_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.1_s2.json",
+    "source_sha256": "e568971290f60a8562b7e7d2adca0b8e6b55a89c0bb0f16ebf7e049b258563bf",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.1_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.1_s3.json",
+    "source_sha256": "37dd01c1017cb0bf1b51314e185df08cfac05216f2af73685ea15e215166ed7a",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.1_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.1_s4.json",
+    "source_sha256": "320b39d1cfff1aa62c6df0164a0fa3e207255c09851616914bb7a4a38c307dad",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.1_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.1_s5.json",
+    "source_sha256": "381fae83eb9a17e9453fda1f8c6632b42f75da48682535def1dd4f604e869de6",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.1_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.2_s1.json",
+    "source_sha256": "a54d9810aa3cdc59b6e785de4357e65c0703fb3e2d774fc5daa1f3fd55f909eb",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.2_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.2_s2.json",
+    "source_sha256": "4f1e18852756f7e14aad8ad07f6b263edb59b5ab0351a90229d189fcaf03ef35",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.2_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.2_s3.json",
+    "source_sha256": "1a1df2e82b4ff1c2f137ec120e7aa0416e545a9ccb66c71c7d54c781e5f5f683",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.2_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.2_s4.json",
+    "source_sha256": "bd539547efaa6516a49b17a62647ad318d07d1b4e6349e16141d7b222d3ce2c4",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.2_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.2_s5.json",
+    "source_sha256": "b1e6efd679d463474dbad97455cd1827ecf53b361ba17de8bb8f9f542e4e27a8",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.2_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.3_s1.json",
+    "source_sha256": "83cdbaaaabbabb7580e3fd951a8251308fd693998ce8015b6f3706889d7b0f40",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.3_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.3_s2.json",
+    "source_sha256": "b3c69a2d6f573856e9aab078c38825f1cfe79801200abd7f1d553875b0050911",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.3_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.3_s3.json",
+    "source_sha256": "bd8639533dd11fae600ff47c5e3cef40f51d6b8764a273631497207620d14bc9",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.3_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.3_s4.json",
+    "source_sha256": "24c57ca3cefb0b0f68cd28779230462856e2bb062f8b74ef63947fc24f376e65",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.3_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.3_s5.json",
+    "source_sha256": "3fce3b50645ce6a832a9aa4e1757cbe2731e378deff1e3d201bfdaff799570e8",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.3_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.47_s1.json",
+    "source_sha256": "45500d0a19feba162cfd85c63df55014e802074dc41df9fc478ee2e79c15ffc5",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.47_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.47_s2.json",
+    "source_sha256": "d39766aa28f70231252e49829b8329ab19c4748d84d35abf2bd42110b71085a6",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.47_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.47_s3.json",
+    "source_sha256": "86213f4020b04a6132328de18c406af9f82e84750fdf156d98e4fa9d32f5c381",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.47_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.47_s4.json",
+    "source_sha256": "38e661f2e1a657389a0c8028bd6878dd2a68a1b4a93c050ecfcd61416700fe93",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.47_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.47_s5.json",
+    "source_sha256": "0bbade8cf3b62c6fa0a759618d629a0de181c36ae67aa57aa8e039fa437ef5e4",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.47_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.4_s1.json",
+    "source_sha256": "8809e749ca56342b0876f5bbddba2a95e8b6db6a28cd8cb7c2e9b737848d11ae",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.4_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.4_s2.json",
+    "source_sha256": "3dd6e5298b0f069bb9ff4b00d41586b3edc6a93bdaff3c73a1ef7c1383b99874",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.4_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.4_s3.json",
+    "source_sha256": "bbb8df927804673c2f5b8c1765b3f2516b0a9fc035c0b5f4b4185cde5846b2e7",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.4_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.4_s4.json",
+    "source_sha256": "85a4c613ae68226d7250f9917c94693bd8849f11df68d08b483d8d40fddfe699",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.4_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0.4_s5.json",
+    "source_sha256": "8d36b0b3c1014636508c0f8d4ed9e5051ebc41d07c3630b2e6e337371eee3a49",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0.4_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0_s1.json",
+    "source_sha256": "662d3ca887dcf23d5614cff20ec984d317fd51395c7a4a7a2909e1bfdfbe2cf9",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0_s2.json",
+    "source_sha256": "3bd62e9409dc74addc5bf177a4c6e39b81074804e5115276112c3521b33a7772",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0_s3.json",
+    "source_sha256": "78051da5a5e5b947c51231caa2251c7ef9a2b9e7d3416b49b87d5f40f2e0e1fc",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0_s4.json",
+    "source_sha256": "7e48852287a450ff85f3e8b7fcbe68b4d7e4116e6f4f1c22ae6c0a94d22c19ad",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_generic_r0_s5.json",
+    "source_sha256": "e6724da65eaa6ff52245487aa25cec01715044af26b06ff6231cd1e75b3a64b2",
+    "destination": "studies/pathmode/results_rev1/sep_generic_r0_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.1_s1.json",
+    "source_sha256": "fc15cb0a18abefce02d8de0ad7bed988fed4d08ea7a10401074d0d6411d69155",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.1_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.1_s2.json",
+    "source_sha256": "edbfb716e649c7813875d692465f80c8543b7840eee6825ae0615bae3eb13a3e",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.1_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.1_s3.json",
+    "source_sha256": "9b0bdc74add4c6d832510d5e35ed9a6792899a15b69f74a57e2bc4f75b1ed255",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.1_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.1_s4.json",
+    "source_sha256": "526b03d7c2b6812f73c802897cf9e3eb7936a09c498da05d6e1ea271a686dd0d",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.1_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.1_s5.json",
+    "source_sha256": "0a6f9dda49a01c222add8eeab64e31369b932a94b7a2e4d7281b03e4e6fa86ec",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.1_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.2_s1.json",
+    "source_sha256": "2259d3ee692a3f39736d69cb2b258e4453e2b27ded3bf664a605ed76933bbe50",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.2_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.2_s2.json",
+    "source_sha256": "99a83ec2aad9a13dc8624d7a0eef8564bd5fb49d91e7e3662bb500fdc4317917",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.2_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.2_s3.json",
+    "source_sha256": "3b4890e7d6fae55ee569ece2c6c24f7d42d124fd104c42eed8ee5ec4781bbfa4",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.2_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.2_s4.json",
+    "source_sha256": "7939c1af8f51240d4d0c9f803ce3112c8f0eb2137f08a1a14200684b7310cc17",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.2_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.2_s5.json",
+    "source_sha256": "7de1937ace71cc14f052b23d621073b0a7d47e5727fdc327218aaee98e7bb78b",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.2_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.3_s1.json",
+    "source_sha256": "b259b96128c46f8cc70977f1650d0fb4b7215b3685483161dcdefe0923fedfec",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.3_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.3_s2.json",
+    "source_sha256": "113f1537b59c623fc6cfce65d3155f8806acfcf146e7aba0244c359beeafd752",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.3_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.3_s3.json",
+    "source_sha256": "52b0f1ec2b63f0f5b2851cf70924340e1c432cb1fe6b299aff5e88b6a0d78cfa",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.3_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.3_s4.json",
+    "source_sha256": "84de2399bdda6ed1d66bac1ac7881c82e031ec9d46f13ac5a616f564953f7553",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.3_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.3_s5.json",
+    "source_sha256": "32ce688c543bc1eaf018751a8ed7d58fa721c6ef180f61a90f8571d46f325f7c",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.3_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.47_s1.json",
+    "source_sha256": "3acf16ec4a2dff0ced0400134d50282fb47d97fa8a310ad5932519111212ee92",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.47_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.47_s2.json",
+    "source_sha256": "37fb3c8d244a2174704b2a90a0772998fb5386d2d78665b435505367ec2d67c5",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.47_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.47_s3.json",
+    "source_sha256": "482528a71c0e1577e136e611f5e5fe5cb89a900b0eb06c61ee29d328b655e240",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.47_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.47_s4.json",
+    "source_sha256": "8ade3fe23b3f7568e260877971047d56efc010ee9a4e1c19e0440f173d4a2373",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.47_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.47_s5.json",
+    "source_sha256": "dedb597a09d115292ebe151f1671feb0b6d67a808940ae46d9860e2d9593c3be",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.47_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.4_s1.json",
+    "source_sha256": "387522e57c987d588c21198a2444bd4326b298cf1a2e191cd6a7924cd11eeca6",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.4_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.4_s2.json",
+    "source_sha256": "042b25c9ba918e3896721eb6a050aa237d9c4429589db1bbfce3aac68a3cbfc4",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.4_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.4_s3.json",
+    "source_sha256": "bf311e807bf94afa8c41138421f4cbba9b4e7a00ebfd586a959e59819ba211d3",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.4_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.4_s4.json",
+    "source_sha256": "623a12e45df4d90c3f4992e5f80e675b9357547f33447d4b077827f85bc7b510",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.4_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0.4_s5.json",
+    "source_sha256": "1e20acc25eb49be03a17f955f284f3cc7314841a4a6ffbbb9bf0c2888e91632f",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0.4_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0_s1.json",
+    "source_sha256": "2b90eb376f6d24cb027dfe3372cc4175f6e9956fc2fe5b0bd9c48102b4a30e6a",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0_s1.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0_s2.json",
+    "source_sha256": "5a4ea4b7ea077199262b5d038ece2af98f69d41d3268734e047d01a764901fdb",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0_s2.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0_s3.json",
+    "source_sha256": "d388a69f69b2c0ba4727755743b3008746d68a4ac133e55c2377dd403f11de96",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0_s3.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0_s4.json",
+    "source_sha256": "ed6655091503cb25f8137b8f1e9596446d96add6ca3e1548e2f33198903991d8",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0_s4.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/results_rev1/sep_path_r0_s5.json",
+    "source_sha256": "b4c6951dde5cf0aae71bf8eada1d4c80bccc09b117f988b570bdcece202edccf",
+    "destination": "studies/pathmode/results_rev1/sep_path_r0_s5.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/src/analyze.py",
+    "source_sha256": "9d1805ef0aabeadf323c395fcabe512bf66c555a1aae0d8e74f876a2ef9a90e6",
+    "destination": "studies/pathmode/src/analyze.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/src/analyze_rev1.py",
+    "source_sha256": "85c946b9aab5dcaf276f1cf0ccf0ad893fa92a876d7a02c71b267f9511d80b5b",
+    "destination": "studies/pathmode/src/analyze_rev1.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/src/launch.py",
+    "source_sha256": "91b24308f3f19ed55e43dcc58d4726e794341f30d119e79beed6b171e84e821b",
+    "destination": "studies/pathmode/src/launch.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/src/launch_rev1.py",
+    "source_sha256": "1c323df6c700939054d41bd6d4a40bb2d48d65719153147ef6c93ccfe0b3fe38",
+    "destination": "studies/pathmode/src/launch_rev1.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/src/pm.py",
+    "source_sha256": "99c8ca81d73f1dde9f5222737739dc513aefd6209a0bd42832100f6e2a5a50d4",
+    "destination": "studies/pathmode/src/pm.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_pathmode/src/pm_rev1.py",
+    "source_sha256": "9592bdf1c0c553370a739b0470c4a190380f40b636957b0e52fff35324f6bdc6",
+    "destination": "studies/pathmode/src/pm_rev1.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_bias/VERDICT.md",
+    "source_sha256": "0fc78ac54d8aa8e6ebabb069a534c79873487d86a18345ca2e9206ee2e76abdc",
+    "destination": "studies/position_bias/VERDICT.md",
+    "transformation": "condensed English translation; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_bias/results/gradient_summary.json",
+    "source_sha256": "8c04b869040a1e6edd9b74799be812be40b7e8cb6ec55f828244375a7431c0ee",
+    "destination": "studies/position_bias/results/gradient_summary.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_bias/results/summary.json",
+    "source_sha256": "510a2c3c449fbc60f415eb0db971f43ae2fe45596240f70647caf56b0376daf6",
+    "destination": "studies/position_bias/results/summary.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_bias/results/theory.json",
+    "source_sha256": "344cf1c661c2fcfb3aaf7e8fad16daa26887033fb5e66bb7579420ec6574c822",
+    "destination": "studies/position_bias/results/theory.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_rep/VERDICT.md",
+    "source_sha256": "80e876f45bcce4c64c77530f9463d9ae178fd35106ac051a281ce5b353fce811",
+    "destination": "studies/position_rep/VERDICT.md",
+    "transformation": "condensed English translation; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_rep/results/summary.json",
+    "source_sha256": "1e677e6a7258367a0ebf2bbc7e079ccc7c9b7fff9f97b3b00c56f537a6d512e4",
+    "destination": "studies/position_rep/results/summary.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_rigid/VERDICT.md",
+    "source_sha256": "8100684b51e232f14223b5f43261737c141e23598d9ee014b21aecb089aba1f4",
+    "destination": "studies/position_rigid/VERDICT.md",
+    "transformation": "condensed English translation; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_rigid/results/primary.json",
+    "source_sha256": "79062ac6c9a7feaf6f0f29ee44ca66bc4bc13ee278f8634cc4468f71aa252152",
+    "destination": "studies/position_rigid/results/primary.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_position_rigid/results/summary.json",
+    "source_sha256": "8a650a25d1d478ce540d948ad9bdcf20b0ec222bc78dbb960dc72f4c71a384cc",
+    "destination": "studies/position_rigid/results/summary.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/SPEC.md",
+    "source_sha256": "d9a51b3f13f67d7a0121010473abd1f38d204b9baa34df10fe8706636efe0910",
+    "destination": "studies/residual/SPEC.md",
+    "transformation": "condensed English translation; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/VERDICT.md",
+    "source_sha256": "f5681ce16bc729ac0a9c9b362100d8938eed2de2c300bbecb3412a1fa6afbd0c",
+    "destination": "studies/residual/VERDICT.md",
+    "transformation": "condensed English translation; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/results/cells.csv",
+    "source_sha256": "f57b0c4b66bce1c69e8ee840f0d3d676af84b179babc76a452230bc95785ed02",
+    "destination": "studies/residual/results/cells.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/results/claims.json",
+    "source_sha256": "8280c31aa7bd8814c5734b958b10360bfe13f11b4b4452197d3e466ed5153848",
+    "destination": "studies/residual/results/claims.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/results/theory.json",
+    "source_sha256": "9c5441d97a3cdacf56702265a7bca0d00a009782d4e07c18823d1d421cdde711",
+    "destination": "studies/residual/results/theory.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/src/analyze.py",
+    "source_sha256": "c00e19e9c43117c510c2e8f02bf6d078b1a53b059ab42d9e18ecb703c5877015",
+    "destination": "studies/residual/src/analyze.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/src/audit.py",
+    "source_sha256": "cd398816ce0b2a342215b6826f2790013d1e66ada5a599d15037fbed62f564a0",
+    "destination": "studies/residual/src/audit.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/src/checks.py",
+    "source_sha256": "1b9e5471d99c5a5f8418596a8ac124165ea07592d25992569b500a0d3785f435",
+    "destination": "studies/residual/src/checks.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/src/core.py",
+    "source_sha256": "53725c8bdcacb8830e1b0cdb627602e664f534bef4575f9d73fa248775c0832c",
+    "destination": "studies/residual/src/core.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/src/experiment.py",
+    "source_sha256": "301762663fc90fd584066f3bc81104052bf073a56e39557ba417faf1a87c00be",
+    "destination": "studies/residual/src/experiment.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/src/freeze.py",
+    "source_sha256": "20547630861c0e611048c414c0bf688626f45ab53284aac56460ca8704785a93",
+    "destination": "studies/residual/src/freeze.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/src/supervisor.py",
+    "source_sha256": "8176970070acb788c204a2757847c9fa4ad2b1725112650f8fdd9fb88a3a5611",
+    "destination": "studies/residual/src/supervisor.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_residual/src/theory.py",
+    "source_sha256": "bab25a2bd277bd41e13a8b7fdf87c9154dc4398d68a8782f7c422f35d4b356e9",
+    "destination": "studies/residual/src/theory.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/SPEC.md",
+    "source_sha256": "6d6e130955fa029f63bcf86805a9b9522329f72ae9564c6eccebdae720b46107",
+    "destination": "studies/splitnet/SPEC.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/SPEC_ADDENDUM_mechanism.md",
+    "source_sha256": "2bb692834707cdd13a0bbe090625e2d89de3ce6412481151e26b23ffccfcf402",
+    "destination": "studies/splitnet/SPEC_ADDENDUM_mechanism.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/SPEC_ADDENDUM_wallclock.md",
+    "source_sha256": "9e73f441f66824f5873d19150dd380d453ed1931060dd3dd58cbb163e883e89b",
+    "destination": "studies/splitnet/SPEC_ADDENDUM_wallclock.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/VERDICT.md",
+    "source_sha256": "ebded440dbfd748a9b10e4b1ed9ec73a58d3fa6ed3b8be8dc5ed98df0830b075",
+    "destination": "studies/splitnet/VERDICT.md",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/configs/cdl_a.csv",
+    "source_sha256": "25499cbd22e9724767882588af0f92e360d30812eb376eae10e5f11997383423",
+    "destination": "studies/splitnet/configs/cdl_a.csv",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/configs/config.json",
+    "source_sha256": "1f9967db7be9aba8a55b5924423f39ef3c7323c9706fec2c699f6585696c0eb0",
+    "destination": "studies/splitnet/configs/config.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/analysis.json",
+    "source_sha256": "921a6fb146d1ff7da3dcb77a8a832dd48b4cfacad24c781979c7553debf52d4a",
+    "destination": "studies/splitnet/results/analysis.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/beam_certificate.json",
+    "source_sha256": "753d8cecd265e8f77c1069d4542fdaaecbbb427d77c566a3e0be4d238afd990a",
+    "destination": "studies/splitnet/results/beam_certificate.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/calibration.json",
+    "source_sha256": "f4a4e33fe6d83ecdc4fcc3274cd5fec2b4f2f14a60a7b0aabf6ff27c57ecab59",
+    "destination": "studies/splitnet/results/calibration.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/curves.npz",
+    "source_sha256": "014d4e2249d8822e6c23c422454fa67b2e6bc72f8ca976a5a2b874f702b660ad",
+    "destination": "studies/splitnet/results/curves.json",
+    "transformation": "lossless array JSON conversion; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/mechanism.json",
+    "source_sha256": "0c622a81a7721eb3604e0f24e6fe7f698134df347931fd89454da69f28af66c0",
+    "destination": "studies/splitnet/results/mechanism.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/posthoc_eig.json",
+    "source_sha256": "40bf6434a88519a7ead51085ea1fce155f699cdb84c961db5cb77204933e573e",
+    "destination": "studies/splitnet/results/posthoc_eig.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/posthoc_rho_eff.json",
+    "source_sha256": "2c01e00485fbff7cbfa4a370a064458b81b05715f17339b37bca735c97de1cba",
+    "destination": "studies/splitnet/results/posthoc_rho_eff.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/rows.jsonl",
+    "source_sha256": "f01240a9307f26bdcd6a154b0dd28e4412fc0ae8c6612983056e0eee423e639c",
+    "destination": "studies/splitnet/results/rows.json",
+    "transformation": "JSON row-array conversion; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/results/wallclock.json",
+    "source_sha256": "3ab1aba576feadb6d4dacbdc5864f17d6941f16bc59c8a9c793255a884c3446b",
+    "destination": "studies/splitnet/results/wallclock.json",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/analyze.py",
+    "source_sha256": "f872a3acfab611dc14f9b61c513e9bc06d2fb587b8058d898e43bb82ce942fe5",
+    "destination": "studies/splitnet/src/analyze.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/beam_certificate.py",
+    "source_sha256": "97bef0a207df67f8b82666b4a9831c67f8342835c1a8cec5e574260701775789",
+    "destination": "studies/splitnet/src/beam_certificate.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/calibrate.py",
+    "source_sha256": "928c7a7bc54d8c7e13acc554f161b158d0610f7d43785b5b9fbafeb808323337",
+    "destination": "studies/splitnet/src/calibrate.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/formal.py",
+    "source_sha256": "4c0dd76235c13636913dcc3979e9c58e845a25c0083c642f3e3cff954b10e077",
+    "destination": "studies/splitnet/src/formal.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/mechanism.py",
+    "source_sha256": "f7e4764645aa8d92a0f34df8a0dcf16a5be21ac84c201d65dce45e59189f7e50",
+    "destination": "studies/splitnet/src/mechanism.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/posthoc_eig.py",
+    "source_sha256": "60ea84cdde7b2e0887f1704df23310adcf300352126ef8827c527de603f00a85",
+    "destination": "studies/splitnet/src/posthoc_eig.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/posthoc_rho_eff.py",
+    "source_sha256": "0539d8707960696cb9596235cab83536411e6e7293c5bb34940698c9aa8ed199",
+    "destination": "studies/splitnet/src/posthoc_rho_eff.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/sl.py",
+    "source_sha256": "3040b01501d61abae449920b39caf61c49e653acea8697ad991d6055d39adc75",
+    "destination": "studies/splitnet/src/sl.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/evidence/S_splitnet/src/wallclock.py",
+    "source_sha256": "776265611e2df04a82e7cfdc9663d841254930316d0d4b9e53f680aabc7c5dfd",
+    "destination": "studies/splitnet/src/wallclock.py",
+    "transformation": "sanitized text; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_digits.py",
+    "source_sha256": "766dbe520dee70cea999c2f40c36d3b4ef6d5c7769b258caabbf759d6bb9f0af",
+    "destination": "figures/fig_digits.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_bias.py",
+    "source_sha256": "620ff7ee300ff9cda748cb58623451dc1b4bbe4ce7bb233da1e9585eb5006efa",
+    "destination": "figures/fig_bias.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_bench.py",
+    "source_sha256": "a0f1399c7896a17d74813371ff6b0bbef519d6c4d1e4dc46a99946fe794f1b76",
+    "destination": "figures/fig_bench.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_cifar.py",
+    "source_sha256": "94435bd7b863547f461f4701242174840a98a80ca72fd08404c2ac13749faa9f",
+    "destination": "figures/fig_cifar.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_residual.py",
+    "source_sha256": "b66537fe642963bcee9475fee80814c6509688be07fe4ca2a207c6e4510b7374",
+    "destination": "figures/fig_residual.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_protocol.py",
+    "source_sha256": "8838bf98dda3f5d540bf6e5a64a546e9ae9bd77fa2970c00876dcaa356d48ff8",
+    "destination": "figures/fig_protocol.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/common.py",
+    "source_sha256": "6c424eea229bdd3340d34b5e71e448a2c089c98874ae76b2f2db29fc5d166c00",
+    "destination": "figures/common.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_budget_ext8.py",
+    "source_sha256": "cb68f7f31ade69f0b8523b007effad2a3ccd7a02cb6c112e0c27334f99420b7e",
+    "destination": "figures/fig_budget_ext8.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_system.py",
+    "source_sha256": "53b0b720b42befe5a4fe8186012de0c7a1eba5032d8904f7c8ced2845bcda557",
+    "destination": "figures/fig_system.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_csifree.py",
+    "source_sha256": "a01687de9dcf5c1cf099765bf171d86b7974c59b940b710eaff7e9dc363f4fbd",
+    "destination": "figures/fig_csifree.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_conv.py",
+    "source_sha256": "bad2cd173105d9982864e43424a1750e9fb1f36febd4051331817405eec4da08",
+    "destination": "figures/fig_conv.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_regime.py",
+    "source_sha256": "da8b97705ef59ead0006cc9bfe42ca5749d5b02d8e7eed629bd5e053201d8850",
+    "destination": "figures/fig_regime.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  },
+  {
+    "source": "input/figure_scripts/fig_beams.py",
+    "source_sha256": "12b1f7ff2fc1096a39c3f7fd17357d6edf7d949b7b005b1d4fc6c557fbed9797",
+    "destination": "figures/fig_beams.py",
+    "transformation": "portable paths and explicit matrix multiplication; public paths, metadata and documentation edited where applicable"
+  }
+]

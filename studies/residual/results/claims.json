@@ -1,0 +1,167 @@
+{
+  "K1": {
+    "verdict": "Finite-grid operational support; continuous low-speed boundary not located",
+    "speeds": [
+      {
+        "speed_kmh": 3,
+        "theory_kappa": 0.09605105582824558,
+        "observed_kappa": 0.0,
+        "absolute_difference": 0.09605105582824558,
+        "accuracy_below": 0.4900665283203125,
+        "bracket": [
+          0.0,
+          0.5
+        ],
+        "accuracy_above": 0.8552093505859375,
+        "main_8_kappa_status": "Left censored: all main kappa cells at least 80%; only fixed falls below",
+        "observed_kappa_by_seed": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "status": "Endpoint error at most .1"
+      },
+      {
+        "speed_kmh": 10,
+        "theory_kappa": 0.7288153167484737,
+        "observed_kappa": 0.8,
+        "absolute_difference": 0.07118468325152638,
+        "accuracy_below": 0.6766357421875,
+        "bracket": [
+          0.8,
+          0.85
+        ],
+        "accuracy_above": 0.8552093505859375,
+        "main_8_kappa_status": "First crossing observed on main grid",
+        "observed_kappa_by_seed": [
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8
+        ],
+        "status": "Endpoint error at most .1"
+      },
+      {
+        "speed_kmh": 30,
+        "theory_kappa": 0.9096051055828246,
+        "observed_kappa": 0.9,
+        "absolute_difference": 0.009605105582824569,
+        "accuracy_below": 0.4900665283203125,
+        "bracket": [
+          0.9,
+          0.95
+        ],
+        "accuracy_above": 0.8552093505859375,
+        "main_8_kappa_status": "First crossing observed on main grid",
+        "observed_kappa_by_seed": [
+          0.9,
+          0.9,
+          0.9,
+          0.9,
+          0.9,
+          0.9,
+          0.9,
+          0.9
+        ],
+        "status": "Endpoint error at most .1"
+      }
+    ],
+    "hard_line_triggered": false
+  },
+  "K2": {
+    "verdict": "Finite-configuration numerical support",
+    "spearman": 0.9526929575272185,
+    "bootstrap_ci95": [
+      0.8418565735574626,
+      0.9707814675770402
+    ],
+    "n_cells": 24,
+    "including_fixed_27_cells": 0.9524106458500491,
+    "including_fixed_CSI_30_cells": 0.9581585858288659,
+    "round12_theory_ties_sensitivity": 0.9537319947621128,
+    "by_speed": {
+      "3": 0.9285714285714287,
+      "10": 0.9285714285714287,
+      "30": 0.8571428571428572
+    }
+  },
+  "K3": {
+    "verdict": "Descriptive comparison complete",
+    "comparisons": [
+      {
+        "second": {
+          "speed_kmh": 30,
+          "arm": "MA_0.7",
+          "kappa": 0.7,
+          "accuracy": 0.983489990234375,
+          "accuracy_sd": 0.001686098657272104,
+          "accuracy_min": 0.98193359375,
+          "accuracy_max": 0.9871826171875,
+          "accuracy_ci_lo": 0.982574462890625,
+          "accuracy_ci_hi": 0.9846954345703125,
+          "ce": 0.07575897247372375,
+          "ce_sd": 0.005191636298731131,
+          "ce_ci_lo": 0.07277859327316774,
+          "ce_ci_hi": 0.07947295706374559,
+          "rho_real": 0.4626808206985897,
+          "rho_imag": -0.1515479747372267,
+          "rho_abs": 0.4868678778573049,
+          "positive_lobe": 2,
+          "residual_lambda": 1.1674743331935324,
+          "gradient_cos_mean": 0.537017233712576
+        },
+        "first": {
+          "speed_kmh": 10,
+          "arm": "MA_0.8",
+          "kappa": 0.8,
+          "accuracy": 0.6766357421875,
+          "accuracy_sd": 0.06358378649956457,
+          "accuracy_min": 0.5787353515625,
+          "accuracy_max": 0.7410888671875,
+          "accuracy_ci_lo": 0.6326904296875,
+          "accuracy_ci_hi": 0.714813232421875,
+          "ce": 0.6030976523757343,
+          "ce_sd": 0.05368326765824243,
+          "ce_ci_lo": 0.570886242634836,
+          "ce_ci_hi": 0.640426497918039,
+          "rho_real": 0.3747449721130546,
+          "rho_imag": -0.3316209566351629,
+          "rho_abs": 0.5004060880960929,
+          "positive_lobe": 1,
+          "residual_lambda": 0.25943874070967377,
+          "gradient_cos_mean": 0.3205436003718056
+        },
+        "abs_phi_gap": 0.013538210238787984,
+        "paired_accuracy_difference": {
+          "mean": 0.306854248046875,
+          "sd": 0.06288856394656026,
+          "min": 0.242431640625,
+          "max": 0.4031982421875,
+          "ci95": [
+            0.2687370300292969,
+            0.3502197265625
+          ],
+          "per_seed": [
+            0.2735595703125,
+            0.3035888671875,
+            0.3995361328125,
+            0.304931640625,
+            0.4031982421875,
+            0.243408203125,
+            0.242431640625,
+            0.2841796875
+          ]
+        }
+      }
+    ]
+  }
+}

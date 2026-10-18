@@ -1,0 +1,13 @@
+# Independent position-error replication
+
+Condensed English scientific translation of the original verdict. Original SPEC, training code, configuration and raw worlds were not original; historical audit statements below are not independently replayed by this release.
+
+Eight seeds 464610000–464610007,64 formal runs. Shared isotropic angular-spectrum geometric binary classifier,4Rx/2Tx, motion perpendicular to a half-wavelength ULA. Independent Gaussian error per element and exchange, fixed learning budget. No claim of continuous-interval or cross-task validity.
+
+Claim 1: sampled tolerance prediction supported at sigma .10/.25 lambda, accuracy 98.4528/98.4451%; all 16 endpoints at least 90%, minimum 98.1934%. Claim 2: first-zero collapse prediction falsified, sigma .45 gives 98.2803% (all seeds at least 75%), only .1724pp below .10. Claim 3: polar rescue prediction falsified, sigma .38 gives 98.3429% for S0 and 98.4146% for polar, improvement .0717pp below 10pp; all eight paired improvements below 10pp. Paired 95% intervals: decline [.0122,.3250]pp; polar improvement [-.0183,.1526]pp.
+
+Formal fixed_S0 mean 63.3896%,95% interval[47.2399,77.0493], seed range[15.8447,90.7471]; CSI 98.6465%. Four fixed seeds exceed 70%, so the mean gate is not an environment-wise dead-zone guarantee. Other S0 jitter means at .35/.38:98.3643/98.3429%. Historical checkpoint precheck fixed 51.6373%, CSI 98.7030%; fresh training did not attempt to match those historical values.
+
+For Gaussian error e, E[J0(2 pi e)] = exp(-pi^2 sigma^2) I0(pi^2 sigma^2)>0 for every finite sigma. It approaches zero at infinity; the standard deviation is not a deterministic residual. At sigma .10/.25/.35/.38/.45 the correct expectation is .908225759/.592209237/.417945240/.378974705/.308639411; directly substituting sigma into J0 gives .903712642/.472001216/.110854429/.008968897/-.196150241. The first deterministic zero .382739874781 lambda is not a jitter-collapse threshold. Full conditional channel covariance, including reverse spatial covariance, was used.
+
+Seed namespaces separate training, calibration, channel, error and noise; pairing across arms is intentional. Two diagnostic failures occurred before training due to floating-status warnings in matrix multiplication; an equivalent explicit contraction fixed diagnostics before the 64 formal runs. Historical endpoint replay reported zero error, finite-difference error 1.18e-10, covariance error 1.67e-15 and unitary error 3.7e-15. Raw files are missing here. Gaussian errors were not clipped to finite rails; no latency, energy or trajectory feasibility was simulated. Polar normalization, feedback and budgets differ from S0/CSI, so this is not an isolated causal test of polar correction.

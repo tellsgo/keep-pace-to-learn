@@ -1,0 +1,49 @@
+{
+  "master_entropy": 198283508857778461700346066779821051225,
+  "seeds": [
+    710171100,
+    710171101,
+    710171102,
+    710171103,
+    710171104,
+    710171105,
+    710171106,
+    710171107
+  ],
+  "calib_seeds": [
+    710171200,
+    710171201,
+    710171202,
+    710171203
+  ],
+  "bootstrap_seed": 710171999,
+  "carrier_hz": 3500000000.0,
+  "light_speed_mps": 299792458.0,
+  "tau_s": 0.04,
+  "cycle_s": 0.15,
+  "speed_mps": 1.0,
+  "nt": 4,
+  "nr": 8,
+  "spacing_lambda": 0.5,
+  "forward_noise_std": 0.1,
+  "backward_noise_std": 0.03,
+  "block_updates": 100,
+  "hidden_dev": 64,
+  "hidden_rx": 64,
+  "batch": 32,
+  "steps": 1500,
+  "eval_every": 25,
+  "train_n": 1200,
+  "residual_lambda_grid": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3
+  ],
+  "target_acc": 0.85,
+  "rx_lr_scale": 1.0,
+  "note": "Digits split-learning study; SGD for both sides; device gradient via reciprocal backward channel; receiver has forward CSI (MMSE); BS has none."
+}

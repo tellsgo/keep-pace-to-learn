@@ -1,0 +1,13 @@
+{
+  "rows": 56,
+  "completed_at": "2026-10-16T00:23:06.534779+08:00",
+  "first_crossing": {
+    "kappa": 0.4,
+    "accuracy": 0.777191162109375,
+    "kappa_star": 0.09600302462485122,
+    "absolute_difference": 0.3039969753751488,
+    "falsified": true,
+    "recorded_at": "2026-10-16T00:22:58.872854+08:00",
+    "subsequent_grid": "Required descriptive coverage; decision not reopened"
+  }
+}

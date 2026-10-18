@@ -1,0 +1,18 @@
+[
+  {
+    "issue": "Budget extension figure initially lacked its study-root import",
+    "resolution": "Added the portable study-root import; final run passes."
+  },
+  {
+    "issue": "Two complex matrix products raised backend floating-status warnings in the first theory check",
+    "resolution": "Replaced with equivalent explicit contractions; all final assertions pass with empty standard error."
+  },
+  {
+    "issue": "Short training emitted a differentiable-scalar logging warning",
+    "resolution": "Detached the loss only for logging; training computations unchanged; final standard error empty."
+  },
+  {
+    "issue": "Residual continuous spectrum requires an absent original configuration",
+    "resolution": "Plot retained discrete theoretical data, smooth analytic isotropic reference and retained learning results; original RMS marker omitted and difference documented."
+  }
+]

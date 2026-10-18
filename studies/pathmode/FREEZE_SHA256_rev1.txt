@@ -1,0 +1,4 @@
+Historical source hashes (not hashes of the edited release files).
+06194a1d39120a86540ec44ad6e25d3f744f8f0eb44e8167fa79e5a20a64f0af  REVISION_rev1.md
+9592bdf1c0c553370a739b0470c4a190380f40b636957b0e52fff35324f6bdc6  src/pm_rev1.py
+1c323df6c700939054d41bd6d4a40bb2d48d65719153147ef6c93ccfe0b3fe38  src/launch_rev1.py

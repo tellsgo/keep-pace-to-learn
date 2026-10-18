@@ -1,0 +1,39 @@
+{
+  "recorded_groups": 13,
+  "recorded_seed_curves": 39,
+  "points_per_curve": 40,
+  "missing_curve_groups": 5,
+  "csv_rows": 18,
+  "figure_inches": [
+    7,
+    2.2
+  ],
+  "minimum_font_pt": 7,
+  "shared_legends": 1,
+  "input_hashes_unchanged": true,
+  "metadata_epoch_update_final_checks": true,
+  "no_training": true,
+  "threshold_rule": "first recorded seed-mean crossing, no interpolation",
+  "python_libraries": {
+    "numpy": "2.0.2",
+    "matplotlib": "3.9.4"
+  }
+}
+8 1.0 fixed 92.94666666666667 62.4
+8 1.0 selection 93.92333333333333 52.66053
+8 1.0 mechanical exact restoration 93.80666666666666 196.4924750185014
+8 1.8202 fixed 58.81333333333334 not reached
+8 1.8202 selection 93.53666666666668 54.61092
+8 1.8202 mechanical exact restoration 93.83999999999999 298.16544619679996
+8 4.0686 fixed 16.066666666666666 not reached
+8 4.0686 selection 93.96333333333332 54.61092
+8 4.0686 mechanical exact restoration 93.87666666666667 50.7
+2 1.0 fixed 85.5 missing data
+2 1.0 selection 93.69333333333334 50.71014
+2 1.0 mechanical exact restoration 93.77 missing data
+2 1.8202 fixed 53.21333333333334 not reached
+2 1.8202 selection 93.64333333333333 58.511700000000005
+2 1.8202 mechanical exact restoration 93.78666666666668 298.16544619679996
+2 4.0686 fixed missing data missing data
+2 4.0686 selection missing data missing data
+2 4.0686 mechanical exact restoration missing data missing data

@@ -1,0 +1,357 @@
+{
+  "figure_inches": [
+    7,
+    2.9
+  ],
+  "png_pixels": [
+    2100,
+    870
+  ],
+  "png_dpi": [
+    299.9994,
+    299.9994
+  ],
+  "min_text_pt": 7.0,
+  "text_outside_canvas": [],
+  "text_overlaps": [],
+  "text_line_intersections": [],
+  "inset_conclusion_gap_pt": 9.356250000000006,
+  "return_display_offset_pt": 0.55,
+  "labels": [
+    "(a) Antenna fixed on the body",
+    "activations (forward)",
+    "aged backward pass",
+    "static scatterers",
+    "different path phases",
+    "layer 1",
+    "layer 2",
+    "$x$",
+    "$s$",
+    "Base station",
+    "layer 3",
+    "layer 4",
+    "loss $L$",
+    "$\\delta$",
+    "$t_f$",
+    "Terminal",
+    "$t_f+\\tau$",
+    "$v\\!\\cdot\\!\\tau$",
+    "$-\\lambda/4$",
+    "$+\\lambda/4$",
+    "lower bound $\\cos(kr)$ on Re $\\varphi$",
+    "mean descent guaranteed: $|r|<\\lambda/4$",
+    "$p_f$",
+    "$p_f+v\\tau$",
+    "$H_r\\ne H_f$",
+    "$\\mathbf{g}$ (true)",
+    "$\\mathrm{E}[\\hat{\\mathbf{g}}]$ (mean returned)",
+    "$>90^{\\circ}$",
+    "Update $-\\mathrm{E}[\\hat{\\mathbf{g}}]$:",
+    "mean ascent possible",
+    "(b) Antenna position selection",
+    "activations (forward)",
+    "restored backward pass",
+    "static scatterers",
+    "matched path phases",
+    "layer 1",
+    "layer 2",
+    "$x$",
+    "$s$",
+    "Base station",
+    "layer 3",
+    "layer 4",
+    "loss $L$",
+    "$\\delta$",
+    "$t_f$",
+    "Terminal",
+    "$t_f+\\tau$",
+    "$v\\!\\cdot\\!\\tau$",
+    "$-\\lambda/4$",
+    "$+\\lambda/4$",
+    "lower bound $\\cos(kr)$ on Re $\\varphi$",
+    "mean descent guaranteed: $|r|<\\lambda/4$",
+    "$p_f$",
+    "$r$",
+    "switch",
+    "$j^*$",
+    "$H_r\\approx H_f$",
+    "$\\mathbf{g}$ (true)",
+    "$\\mathrm{E}[\\hat{\\mathbf{g}}]$ (mean returned)",
+    "$<90^{\\circ}$",
+    "Update $-\\mathrm{E}[\\hat{\\mathbf{g}}]$:",
+    "mean descent",
+    "$r$",
+    "$j^*$",
+    "$p_f$",
+    "residual detail (enlarged)",
+    "tolerance $|r|<\\lambda/4$"
+  ],
+  "geometry": [
+    {
+      "panel": "a",
+      "forward": [
+        [
+          0.365,
+          1.37
+        ],
+        [
+          0.84,
+          1.66
+        ],
+        [
+          1.9,
+          1.37
+        ]
+      ],
+      "returned": [
+        [
+          0.365,
+          1.37
+        ],
+        [
+          0.84,
+          1.66
+        ],
+        [
+          2.2102,
+          1.37
+        ]
+      ]
+    },
+    {
+      "panel": "a",
+      "forward": [
+        [
+          0.365,
+          1.37
+        ],
+        [
+          0.84,
+          1.24
+        ],
+        [
+          1.9,
+          1.37
+        ]
+      ],
+      "returned": [
+        [
+          0.365,
+          1.37
+        ],
+        [
+          0.84,
+          1.24
+        ],
+        [
+          2.2102,
+          1.37
+        ]
+      ]
+    },
+    {
+      "panel": "b",
+      "forward": [
+        [
+          0.365,
+          1.37
+        ],
+        [
+          0.84,
+          1.66
+        ],
+        [
+          1.9,
+          1.37
+        ]
+      ],
+      "returned": [
+        [
+          0.365,
+          1.37
+        ],
+        [
+          0.84,
+          1.66
+        ],
+        [
+          1.8801999999999999,
+          1.37
+        ]
+      ]
+    },
+    {
+      "panel": "b",
+      "forward": [
+        [
+          0.365,
+          1.37
+        ],
+        [
+          0.84,
+          1.24
+        ],
+        [
+          1.9,
+          1.37
+        ]
+      ],
+      "returned": [
+        [
+          0.365,
+          1.37
+        ],
+        [
+          0.84,
+          1.24
+        ],
+        [
+          1.8801999999999999,
+          1.37
+        ]
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "panel": "a",
+      "world_lambda": {
+        "p_f": 0,
+        "shifted_forward": 0.47,
+        "selected": 0.47,
+        "original_row": [
+          0
+        ],
+        "translated_row": [
+          0.47
+        ],
+        "zero_ticks": [
+          -0.25,
+          0.25
+        ]
+      },
+      "pixels_per_lambda": 198.0,
+      "pixel_x": {
+        "p_f": 594.0,
+        "shifted_forward": 687.0600000000001,
+        "selected": 687.0600000000001
+      },
+      "row_pixel_x": [
+        687.0600000000001
+      ],
+      "tick_pixel_x": [
+        544.5,
+        643.5
+      ],
+      "antenna_pixel_y_from_top": 440.99999999999994,
+      "original_forward": [
+        1.9,
+        1.37
+      ],
+      "shifted_original": [
+        2.2102,
+        1.37
+      ],
+      "selected": [
+        2.2102,
+        1.37
+      ]
+    },
+    {
+      "panel": "b",
+      "world_lambda": {
+        "p_f": 0,
+        "shifted_forward": 0.47,
+        "selected": -0.03,
+        "original_row": [
+          -1,
+          -0.5,
+          0
+        ],
+        "translated_row": [
+          -0.53,
+          -0.03,
+          0.47
+        ],
+        "zero_ticks": [
+          -0.25,
+          0.25
+        ]
+      },
+      "pixels_per_lambda": 198.0,
+      "pixel_x": {
+        "p_f": 1641.0,
+        "shifted_forward": 1734.06,
+        "selected": 1635.06
+      },
+      "row_pixel_x": [
+        1536.06,
+        1635.06,
+        1734.06
+      ],
+      "tick_pixel_x": [
+        1591.5,
+        1690.5
+      ],
+      "antenna_pixel_y_from_top": 440.99999999999994,
+      "original_forward": [
+        1.9,
+        1.37
+      ],
+      "shifted_original": [
+        2.2102,
+        1.37
+      ],
+      "selected": [
+        1.8801999999999999,
+        1.37
+      ]
+    }
+  ],
+  "compasses": [
+    {
+      "panel": "a",
+      "angle_degrees": 126.3268259521202
+    },
+    {
+      "panel": "b",
+      "angle_degrees": 12
+    }
+  ],
+  "lobe_height_inches": 0.35,
+  "lobe_range_lambda": [
+    -0.8,
+    0.8
+  ],
+  "wavelength_inches": 0.66,
+  "pitch_inches": 0.33,
+  "translation_inches": 0.3102,
+  "residual_inches": -0.0198,
+  "pdf_media_box": [
+    0.0,
+    0.0,
+    504.0,
+    208.8
+  ],
+  "pdf_image_objects": 0,
+  "pdf_base_fonts": [
+    "CNAJXZ+TimesNewRomanPS-BoldMT",
+    "CNAJXZ+TimesNewRomanPSMT",
+    "CZRBLR+STIXGeneral-Regular",
+    "FTXWZA+STIXGeneral-Italic",
+    "FWBXUE+STIXGeneral-Bold"
+  ],
+  "pdf_embedded_truetype": true,
+  "layer_height_inches": 0.136,
+  "layer_height_r4_inches": 0.17,
+  "detail_scale_relative_to_main": 2.55,
+  "detail_residual_pixels": 15.147,
+  "phone_body_inches": [
+    0.72,
+    0.99
+  ],
+  "cabinet_body_inches": [
+    0.64,
+    0.78
+  ]
+}

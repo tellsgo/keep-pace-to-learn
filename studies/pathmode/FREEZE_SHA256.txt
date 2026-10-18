@@ -1,0 +1,4 @@
+Historical source hashes (not hashes of the edited release files).
+7328f06dd065753cdf6f1841be0abd87e93427a917742f3375b879809c99bc49  SPEC.md
+99c8ca81d73f1dde9f5222737739dc513aefd6209a0bd42832100f6e2a5a50d4  src/pm.py
+91b24308f3f19ed55e43dcc58d4726e794341f30d119e79beed6b171e84e821b  src/launch.py

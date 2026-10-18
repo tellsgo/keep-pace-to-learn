@@ -1,0 +1,72 @@
+[
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/environment.json",
+    "reason": "Internal execution metadata excluded",
+    "source_sha256": "772df2db6f6243c6b7ddddf1d9a433c989ba7106a08df4fc884718099bade307"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/final_checks.json",
+    "reason": "Internal execution metadata excluded",
+    "source_sha256": "4ed53248a7c270b3e6fed60b2f8789acb29a3ff1557d08ce89e10f7c9f8cb76f"
+  },
+  {
+    "source": "input/evidence/S_benchmark_refinement/results/preflight.json",
+    "reason": "Internal execution metadata excluded",
+    "source_sha256": "2b8d030230f2895bd2582d4002df9240126035a6f570e966f84dd7d639b9ecff"
+  },
+  {
+    "source": "input/evidence/S_budget/budget_cifar.pdf",
+    "reason": "Generated binary or execution log excluded",
+    "source_sha256": "d2a9af64ed9c8789d42aa78fe2623be2ed02117a23171f0525526e0eb58d3936"
+  },
+  {
+    "source": "input/evidence/S_cifar/pilot/energy_csi.log",
+    "reason": "Generated binary or execution log excluded",
+    "source_sha256": "98f69178ebbec89289cfd0bcf9b288cf683626433e0a3c6280d788c87c89ec77"
+  },
+  {
+    "source": "input/evidence/S_cifar/pilot/energy_fixed.log",
+    "reason": "Generated binary or execution log excluded",
+    "source_sha256": "c4ce0dd358e7ac2e7fcbbec81f7a30ccf4c60f9c980ff85c6ba93fe71e7726f0"
+  },
+  {
+    "source": "input/evidence/S_residual/src/analysis_retry3_supervisor.py",
+    "reason": "Internal setup, report retry or closeout utility excluded",
+    "source_sha256": "4928ab78c6996dbf04440604af65f84a815b59e2a6c0447744604d8776d8283f"
+  },
+  {
+    "source": "input/evidence/S_residual/src/analysis_retry_supervisor.py",
+    "reason": "Internal setup, report retry or closeout utility excluded",
+    "source_sha256": "271b24cc08a7c6183192569032396ed05e3b80c725bf1b07a7e91cba1a9ee06b"
+  },
+  {
+    "source": "input/evidence/S_residual/src/analyze_attempt2.py",
+    "reason": "Internal setup, report retry or closeout utility excluded",
+    "source_sha256": "e0bbb8d1ecfb545781ed1323429320fbeccbc2f8eef672f40747025634b484af"
+  },
+  {
+    "source": "input/evidence/S_residual/src/analyze_attempt3.py",
+    "reason": "Internal setup, report retry or closeout utility excluded",
+    "source_sha256": "0ecf13d31dff4549f90091c8dc3cebce2325a2c9151e840a661771af7be9992b"
+  },
+  {
+    "source": "input/evidence/S_residual/src/closeout.py",
+    "reason": "Internal setup, report retry or closeout utility excluded",
+    "source_sha256": "622200b58bdb5cf05ccdd0c821f1c7815602c1db5cf7254f0f53e229b3665d81"
+  },
+  {
+    "source": "input/evidence/S_residual/src/make_audit.py",
+    "reason": "Internal setup, report retry or closeout utility excluded",
+    "source_sha256": "8b9c4f810a2870de339f542bbdb600c042a37bf53ade4e096a43e71a122d0b54"
+  },
+  {
+    "source": "input/evidence/S_residual/src/setup.py",
+    "reason": "Internal setup, report retry or closeout utility excluded",
+    "source_sha256": "5d15f385f93312b6531f09109b46e942bcfc781fc83f222c2fdf928585bf3dab"
+  },
+  {
+    "source": "input/evidence/S_residual/src/supplement.py",
+    "reason": "Internal setup, report retry or closeout utility excluded",
+    "source_sha256": "7ff30b70622493d346980f58453f2a21ade476cdbc51bd1f8a973f13f075fc08"
+  }
+]

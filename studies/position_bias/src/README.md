@@ -1,0 +1,1 @@
+The training source of this study is not part of this release. Its compact results and verdict document the study; the corresponding paper results are reproduced by the theory checks and figure scripts where noted in the root README.

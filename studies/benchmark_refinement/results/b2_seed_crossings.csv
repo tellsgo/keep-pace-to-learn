@@ -1,0 +1,9 @@
+seed,first_below_80,highest_grid_below_80,nonmonotone_steps
+2160102000,0.3,False,1
+2160102001,0.4,True,0
+2160102002,0.3,False,2
+2160102003,0.4,True,1
+2160102004,0.4,True,2
+2160102005,0.4,True,3
+2160102006,0.3,False,2
+2160102007,0.4,True,2

@@ -1,0 +1,4 @@
+Historical source hashes (not hashes of the edited release files).
+ddd00bdb769098657bb9e894e8bbac7b127fd9a175d246b976045d03648829da  SPEC_ADDENDUM_ext8.md
+7ee1058a3076c2321288d74aa807acd47287616852dffdf40d69a7f4887d47cf  src/run_ext8.py
+9e0f090e413ba4a205bcf15abb577d4d2e0665775e690355b601037c9098ef2e  src/launch_ext8.py

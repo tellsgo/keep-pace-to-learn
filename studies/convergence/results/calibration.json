@@ -1,0 +1,81 @@
+{
+  "grid": [
+    {
+      "eta": 0.0025,
+      "K90": [
+        53,
+        72,
+        53,
+        64
+      ],
+      "final_acc": [
+        0.9814453125,
+        0.984375,
+        0.985107421875,
+        0.9847412109375
+      ]
+    },
+    {
+      "eta": 0.005,
+      "K90": [
+        30,
+        59,
+        29,
+        56
+      ],
+      "final_acc": [
+        0.983154296875,
+        0.985107421875,
+        0.9864501953125,
+        0.9857177734375
+      ]
+    },
+    {
+      "eta": 0.01,
+      "K90": [
+        17,
+        71,
+        16,
+        61
+      ],
+      "final_acc": [
+        0.9832763671875,
+        0.9859619140625,
+        0.98681640625,
+        0.9849853515625
+      ]
+    },
+    {
+      "eta": 0.02,
+      "K90": [
+        9,
+        26,
+        10,
+        19
+      ],
+      "final_acc": [
+        0.98388671875,
+        0.9857177734375,
+        0.98583984375,
+        0.98486328125
+      ]
+    },
+    {
+      "eta": 0.05,
+      "K90": [
+        4,
+        10,
+        4,
+        7
+      ],
+      "final_acc": [
+        0.9832763671875,
+        0.9830322265625,
+        0.9864501953125,
+        0.983154296875
+      ]
+    }
+  ],
+  "chosen_eta": 0.005,
+  "rule": "Step-size calibration for the SGD arm using ONLY residual 0 (no channel aging) on the 4 calibration seeds.\nRule (amendment 1, frozen before running): eta grid {.0025,.005,.01,.02,.05}; keep those where all 4 seeds reach 90%\nwithin 300 updates; choose the LARGEST eta whose median K90 >= 40 updates (resolution room); if none, the smallest eta. No moving-residual arm is run here."
+}

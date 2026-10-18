@@ -1,0 +1,4 @@
+Historical source hashes (not hashes of the edited release files).
+edbe000151f4f2654d97bba4ce90e10094dbdc2bf99a42ac3d4ccf23438e12aa  SPEC_ADDENDUM_ext7.md
+0de00d60cf885e5af00eb3f8b54d98e2c5ea8668dbfea1105387c607b8e7c005  src/run.py
+55977be07e304382d38efb434f5cee50e35c2201bfa57539c860fcc405185959  src/launch_ext7.py

@@ -1,0 +1,55 @@
+{
+  "master_entropy": 219455441690807889670986038808476511579,
+  "seeds": [
+    710172100,
+    710172101,
+    710172102
+  ],
+  "carrier_hz": 3500000000.0,
+  "light_speed_mps": 299792458.0,
+  "tau_s": 0.04,
+  "cycle_s": 0.15,
+  "speed_mps": 1.0,
+  "nt": 4,
+  "nr": 8,
+  "uses": 8,
+  "forward_noise_std": 0.1,
+  "backward_noise_std": 0.03,
+  "block_updates": 100,
+  "epochs": 40,
+  "batch": 128,
+  "lr": 0.05,
+  "momentum": 0.9,
+  "weight_decay": 0.0005,
+  "arms": [
+    [
+      "csi",
+      0.0
+    ],
+    [
+      "phys",
+      0.0
+    ],
+    [
+      "phys",
+      0.1
+    ],
+    [
+      "phys",
+      0.2
+    ],
+    [
+      "phys",
+      0.25
+    ],
+    [
+      "phys",
+      0.3
+    ],
+    [
+      "phys",
+      "fixed"
+    ]
+  ],
+  "target_acc": 0.8
+}

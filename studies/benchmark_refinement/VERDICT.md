@@ -1,0 +1,7 @@
+# Matched benchmark and threshold refinement results
+
+B1: prediction NOT MET, not falsified. Maximum excess CE .021308 is above .02 but below .05, for polar on CDL-C at 30 km/h. MA satisfies the .02 threshold in all four conditions. Paired differences and descriptive intervals remain in b1_contrasts.csv; seed results and resource ledger are retained.
+
+B2: preregistered operational prediction FALSIFIED. Highest tested kappa .4 already has mean accuracy 77.719%, versus theoretical kappa_star .096003025: endpoint error .303996975 exceeds .2. Its descriptive 95% interval [74.844,80.431] crosses 80%; the decision uses the preregistered sample mean, not a95% rejection of 80%. No successful upper anchor exists, so the continuous boundary cannot be bracketed or declared to equal .4. Other kappa 0,.05,.10,.15,.20,.30 give means 48.122,45.410,49.715,51.109,50.186,63.524%.
+
+B1 completed 1280 tone endpoints (160 seed/condition/method endpoints); B2 completed 56 endpoints. Historical independent endpoint reconstruction reported maximum numerical error 2.67e-15 and zero accuracy difference. The release has summaries, not the raw worlds needed to repeat that audit. B1 and B2 use different normalization/noise restoration and cannot form one accuracy curve. Eight paired seeds, idealized independent drops, scalar polarization, unpriced CSI and no actuator trajectory/energy constraints limit interpretation. See all retained CSV/JSON results, including unfavorable seeds.

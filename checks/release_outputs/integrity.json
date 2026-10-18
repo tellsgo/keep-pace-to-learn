@@ -1,0 +1,9 @@
+{
+  "syntax_checked_python_files": 64,
+  "source_digests_unchanged": 515,
+  "arrays_equal_to_input": 187,
+  "row_records_equal_to_input": 184,
+  "rendered_files": 27,
+  "retained_numeric_json_leaves_equal_to_input": 71630,
+  "all_final_commands_have_empty_stderr": true
+}

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.mplconfig/
+.DS_Store
+data/
+figures/generated/
+*.npz
+*.pt
+*.pth
+studies/*/logs/
+studies/*/results/reproduced/
+checks/release_outputs/*_stderr.txt

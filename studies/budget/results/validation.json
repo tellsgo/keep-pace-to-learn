@@ -1,0 +1,21 @@
+{
+  "recorded_groups": 13,
+  "recorded_seed_curves": 39,
+  "points_per_curve": 40,
+  "missing_curve_groups": 5,
+  "csv_rows": 18,
+  "figure_inches": [
+    7,
+    2.2
+  ],
+  "minimum_font_pt": 7,
+  "shared_legends": 1,
+  "input_hashes_unchanged": true,
+  "metadata_epoch_update_final_checks": true,
+  "no_training": true,
+  "threshold_rule": "first recorded seed-mean crossing, no interpolation",
+  "python_libraries": {
+    "numpy": "2.0.2",
+    "matplotlib": "3.9.4"
+  }
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "command": [
+      "python3",
+      "-B",
+      "checks/smoke_cpu.py"
+    ],
+    "exit_code": 0,
+    "seconds": 2.007,
+    "stdout": "{\"step\": 10, \"test_acc\": 0.10579345088161209, \"loss\": 2.23743562776179}\n{\"step\": 20, \"test_acc\": 0.42065491183879095, \"loss\": 2.143221949020454}\n{\"passed\": true, \"seconds\": 1.9831595, \"steps\": 20, \"minimum_alignment\": 0.9172642366835039}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "studies/budget/src/generate_budget2.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.521,
+    "stdout": "{\n  \"recorded_groups\": 13,\n  \"recorded_seed_curves\": 39,\n  \"points_per_curve\": 40,\n  \"missing_curve_groups\": 5,\n  \"csv_rows\": 18,\n  \"figure_inches\": [\n    7,\n    2.2\n  ],\n  \"minimum_font_pt\": 7,\n  \"shared_legends\": 1,\n  \"input_hashes_unchanged\": true,\n  \"metadata_epoch_update_final_checks\": true,\n  \"no_training\": true,\n  \"threshold_rule\": \"first recorded seed-mean crossing, no interpolation\",\n  \"python_libraries\": {\n    \"numpy\": \"2.0.2\",\n    \"matplotlib\": \"3.9.4\"\n  }\n}\n8 1.0 fixed 92.94666666666667 62.4\n8 1.0 selection 93.92333333333333 52.66053\n8 1.0 mechanical exact restoration 93.80666666666666 196.4924750185014\n8 1.8202 fixed 58.81333333333334 not reached\n8 1.8202 selection 93.53666666666668 54.61092\n8 1.8202 mechanical exact restoration 93.83999999999999 298.16544619679996\n8 4.0686 fixed 16.066666666666666 not reached\n8 4.0686 selection 93.96333333333332 54.61092\n8 4.0686 mechanical exact restoration 93.87666666666667 50.7\n2 1.0 fixed 85.5 missing data\n2 1.0 selection 93.69333333333334 50.71014\n2 1.0 mechanical exact restoration 93.77 missing data\n2 1.8202 fixed 53.21333333333334 not reached\n2 1.8202 selection 93.64333333333333 58.511700000000005\n2 1.8202 mechanical exact restoration 93.78666666666668 298.16544619679996\n2 4.0686 fixed missing data missing data\n2 4.0686 selection missing data missing data\n2 4.0686 mechanical exact restoration missing data missing data\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_beams.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.998,
+    "stdout": "agree frac 0.6059850374064838\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_bench.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.551,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_bias.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.495,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_budget_ext8.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.495,
+    "stdout": "ok\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_cifar.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.535,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_conv.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.659,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_csifree.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.936,
+    "stdout": "[93.69 93.63 93.44 92.49 16.12 10.  ] [93.81 93.88 93.68 93.82 93.66 92.95]\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_digits.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.512,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_protocol.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.659,
+    "stdout": "0.5 exact S mm 3.12 T ms 13.1 | lam/8 u 0.232 S 1.3 T 9.8\n1 exact S mm 7.5 T ms 18.7 | lam/8 u 0.732 S 5.0 T 15.7\n1.5 exact S mm 13.12 T ms 24.0 | lam/8 u 1.232 S 9.96 T 21.1\n2 exact S mm 20.0 T ms 29.2 | lam/8 u 1.732 S 16.16 T 26.4\nlam 0.0107068735 lam/(4tau) 0.535343675 lam/(8tau) 0.2676718375\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_regime.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.422,
+    "stdout": "ok\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_residual.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.57,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "-B",
+      "figures/fig_system.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.662,
+    "stdout": "./figures/generated/fig1.pdf\n",
+    "stderr": ""
+  }
+]
