@@ -1,6 +1,6 @@
 # Keep Pace to Learn
 
-Research code and compact results for movable-antenna compensation of channel aging in over-the-air split learning. The studies examine residual displacement, convergence, positioning errors, path-mode precoding, and learning on digits and CIFAR-10. Paper: [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) (placeholder; bibliographic details pending). Numerical support is configuration-specific; negative and inconclusive results are retained.
+Research code and compact results for movable-antenna compensation of channel aging in over-the-air split learning. The studies examine residual displacement, convergence, positioning errors, path-mode precoding, and learning on digits and CIFAR-10. Paper: [arXiv:2610.23118](https://arxiv.org/abs/2610.23118). Numerical support is configuration-specific; negative and inconclusive results are retained.
 
 ## Study map
 
@@ -75,9 +75,11 @@ provenance/sources.json maps original files to their release destinations and or
 
 ```bibtex
 @misc{keep_pace_to_learn,
-  title = {Keep Pace to Learn},
-  eprint = {XXXX.XXXXX},
+  title = {Keep Pace to Learn: Movable Antennas Restore the Backpropagated Gradient Under User Mobility},
+  year = {2026},
+  eprint = {2610.23118},
   archivePrefix = {arXiv},
-  note = {Bibliographic placeholder}
+  primaryClass = {eess.SP},
+  url = {https://arxiv.org/abs/2610.23118}
 }
 ```
