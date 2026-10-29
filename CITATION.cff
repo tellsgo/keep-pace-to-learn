@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the preferred citation below."
+title: "Keep Pace to Learn: Movable-Antenna Compensation of Channel Aging in Over-the-Air Split Learning"
+authors:
+  - family-names: "Li"
+    given-names: "Xianzhong"
+    affiliation: "College of Physics and Electronic Engineering, Shanxi University"
+  - family-names: "Yang"
+    given-names: "Yuzhi"
+    affiliation: "Japan Advanced Institute of Science and Technology"
+  - family-names: "Guo"
+    given-names: "Tianhao"
+    affiliation: "College of Physics and Electronic Engineering, Shanxi University"
+  - family-names: "Zhang"
+    given-names: "Zhaoyang"
+    affiliation: "College of Information Science and Electronic Engineering, Zhejiang University"
+repository-code: "https://github.com/tellsgo/keep-pace-to-learn"
+url: "https://github.com/tellsgo/keep-pace-to-learn"
+preferred-citation:
+  type: article
+  title: "Keep Pace to Learn: Movable-Antenna Compensation of Channel Aging in Over-the-Air Split Learning"
+  authors:
+    - family-names: "Li"
+      given-names: "Xianzhong"
+    - family-names: "Yang"
+      given-names: "Yuzhi"
+    - family-names: "Guo"
+      given-names: "Tianhao"
+    - family-names: "Zhang"
+      given-names: "Zhaoyang"
+  year: 2026
+  url: "https://arxiv.org/abs/2610.23118"
